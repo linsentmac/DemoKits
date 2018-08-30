@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: c45548aa5d7aede45985e1205f7e218e
+timeCreated: 1498457578
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CFM-Body-01
+    100002: CFM-Body-02
+    100004: CFM-Body-03
+    100006: CFM-Body-04
+    100008: CFM-Body-05
+    100010: CFM-Body-06
+    100012: CFM-Body-07
+    100014: CFM-Body-08
+    100016: CFM-Body-09
+    100018: CFM-Body-10
+    100020: CFM-Body-11
+    100022: CFM-Body-12
+    100024: CFM-Body-13
+    100026: CFM-Body-14
+    100028: CFM-Body-15
+    100030: CFM-Body-16
+    100032: CFM-Body-17
+    100034: CFM-Body-18
+    100036: CFM-Body-19
+    100038: CFM-Body-20
+    100040: CFM-Body-21
+    100042: CFM-Body-22
+    100044: CFM-Body-23
+    100046: CFM-Body-24
+    100048: CFM-Body-25
+    100050: CFM-Body-26
+    100052: CFM-Head-01
+    100054: CFM-Head-02
+    100056: CFM-Head-03
+    100058: CFM-Head-04
+    100060: CFM-Head-05
+    100062: CFM-Head-06
+    100064: CFM-Head-07
+    100066: CFM-Head-08
+    100068: CFM-Head-09
+    100070: CFM-Head-10
+    100072: CFM-Head-11
+    100074: CFM-Head-12
+    100076: CFM-Head-13
+    100078: CFM-Head-14
+    100080: CFM-Head-15
+    100082: CFM-Head-16
+    100084: CFM-Head-17
+    100086: CFM-Head-18
+    100088: //RootNode
+    400000: CFM-Body-01
+    400002: CFM-Body-02
+    400004: CFM-Body-03
+    400006: CFM-Body-04
+    400008: CFM-Body-05
+    400010: CFM-Body-06
+    400012: CFM-Body-07
+    400014: CFM-Body-08
+    400016: CFM-Body-09
+    400018: CFM-Body-10
+    400020: CFM-Body-11
+    400022: CFM-Body-12
+    400024: CFM-Body-13
+    400026: CFM-Body-14
+    400028: CFM-Body-15
+    400030: CFM-Body-16
+    400032: CFM-Body-17
+    400034: CFM-Body-18
+    400036: CFM-Body-19
+    400038: CFM-Body-20
+    400040: CFM-Body-21
+    400042: CFM-Body-22
+    400044: CFM-Body-23
+    400046: CFM-Body-24
+    400048: CFM-Body-25
+    400050: CFM-Body-26
+    400052: CFM-Head-01
+    400054: CFM-Head-02
+    400056: CFM-Head-03
+    400058: CFM-Head-04
+    400060: CFM-Head-05
+    400062: CFM-Head-06
+    400064: CFM-Head-07
+    400066: CFM-Head-08
+    400068: CFM-Head-09
+    400070: CFM-Head-10
+    400072: CFM-Head-11
+    400074: CFM-Head-12
+    400076: CFM-Head-13
+    400078: CFM-Head-14
+    400080: CFM-Head-15
+    400082: CFM-Head-16
+    400084: CFM-Head-17
+    400086: CFM-Head-18
+    400088: //RootNode
+    2300000: CFM-Body-01
+    2300002: CFM-Body-02
+    2300004: CFM-Body-03
+    2300006: CFM-Body-04
+    2300008: CFM-Body-05
+    2300010: CFM-Body-06
+    2300012: CFM-Body-07
+    2300014: CFM-Body-08
+    2300016: CFM-Body-09
+    2300018: CFM-Body-10
+    2300020: CFM-Body-11
+    2300022: CFM-Body-12
+    2300024: CFM-Body-13
+    2300026: CFM-Body-14
+    2300028: CFM-Body-15
+    2300030: CFM-Body-16
+    2300032: CFM-Body-17
+    2300034: CFM-Body-18
+    2300036: CFM-Body-19
+    2300038: CFM-Body-20
+    2300040: CFM-Body-21
+    2300042: CFM-Body-22
+    2300044: CFM-Body-23
+    2300046: CFM-Body-24
+    2300048: CFM-Body-25
+    2300050: CFM-Body-26
+    2300052: CFM-Head-01
+    2300054: CFM-Head-02
+    2300056: CFM-Head-03
+    2300058: CFM-Head-04
+    2300060: CFM-Head-05
+    2300062: CFM-Head-06
+    2300064: CFM-Head-07
+    2300066: CFM-Head-08
+    2300068: CFM-Head-09
+    2300070: CFM-Head-10
+    2300072: CFM-Head-11
+    2300074: CFM-Head-12
+    2300076: CFM-Head-13
+    2300078: CFM-Head-14
+    2300080: CFM-Head-15
+    2300082: CFM-Head-16
+    2300084: CFM-Head-17
+    2300086: CFM-Head-18
+    3300000: CFM-Body-01
+    3300002: CFM-Body-02
+    3300004: CFM-Body-03
+    3300006: CFM-Body-04
+    3300008: CFM-Body-05
+    3300010: CFM-Body-06
+    3300012: CFM-Body-07
+    3300014: CFM-Body-08
+    3300016: CFM-Body-09
+    3300018: CFM-Body-10
+    3300020: CFM-Body-11
+    3300022: CFM-Body-12
+    3300024: CFM-Body-13
+    3300026: CFM-Body-14
+    3300028: CFM-Body-15
+    3300030: CFM-Body-16
+    3300032: CFM-Body-17
+    3300034: CFM-Body-18
+    3300036: CFM-Body-19
+    3300038: CFM-Body-20
+    3300040: CFM-Body-21
+    3300042: CFM-Body-22
+    3300044: CFM-Body-23
+    3300046: CFM-Body-24
+    3300048: CFM-Body-25
+    3300050: CFM-Body-26
+    3300052: CFM-Head-01
+    3300054: CFM-Head-02
+    3300056: CFM-Head-03
+    3300058: CFM-Head-04
+    3300060: CFM-Head-05
+    3300062: CFM-Head-06
+    3300064: CFM-Head-07
+    3300066: CFM-Head-08
+    3300068: CFM-Head-09
+    3300070: CFM-Head-10
+    3300072: CFM-Head-11
+    3300074: CFM-Head-12
+    3300076: CFM-Head-13
+    3300078: CFM-Head-14
+    3300080: CFM-Head-15
+    3300082: CFM-Head-16
+    3300084: CFM-Head-17
+    3300086: CFM-Head-18
+    4300000: CFM-Head-15
+    4300002: CFM-Body-01
+    4300004: CFM-Head-17
+    4300006: CFM-Head-12
+    4300008: CFM-Head-13
+    4300010: CFM-Body-02
+    4300012: CFM-Body-03
+    4300014: CFM-Head-02
+    4300016: CFM-Head-14
+    4300018: CFM-Head-08
+    4300020: CFM-Head-11
+    4300022: CFM-Body-04
+    4300024: CFM-Body-05
+    4300026: CFM-Body-06
+    4300028: CFM-Body-07
+    4300030: CFM-Body-08
+    4300032: CFM-Body-09
+    4300034: CFM-Body-10
+    4300036: CFM-Body-11
+    4300038: CFM-Body-12
+    4300040: CFM-Body-13
+    4300042: CFM-Head-01
+    4300044: CFM-Body-14
+    4300046: CFM-Body-15
+    4300048: CFM-Body-16
+    4300050: CFM-Body-17
+    4300052: CFM-Body-18
+    4300054: CFM-Body-19
+    4300056: CFM-Body-20
+    4300058: CFM-Body-21
+    4300060: CFM-Head-03
+    4300062: CFM-Head-05
+    4300064: CFM-Head-16
+    4300066: CFM-Body-22
+    4300068: CFM-Head-07
+    4300070: CFM-Body-23
+    4300072: CFM-Head-06
+    4300074: CFM-Body-24
+    4300076: CFM-Head-10
+    4300078: CFM-Head-09
+    4300080: CFM-Head-18
+    4300082: CFM-Body-25
+    4300084: CFM-Body-26
+    4300086: CFM-Head-04
+    7400000: Explode
+    7400002: UnExplode
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Explode
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CFM-Body-01
+        weight: 1
+      - path: CFM-Body-02
+        weight: 1
+      - path: CFM-Body-03
+        weight: 1
+      - path: CFM-Body-04
+        weight: 1
+      - path: CFM-Body-05
+        weight: 1
+      - path: CFM-Body-06
+        weight: 1
+      - path: CFM-Body-07
+        weight: 1
+      - path: CFM-Body-08
+        weight: 1
+      - path: CFM-Body-09
+        weight: 1
+      - path: CFM-Body-10
+        weight: 1
+      - path: CFM-Body-11
+        weight: 1
+      - path: CFM-Body-12
+        weight: 1
+      - path: CFM-Body-13
+        weight: 1
+      - path: CFM-Body-14
+        weight: 1
+      - path: CFM-Body-15
+        weight: 1
+      - path: CFM-Body-16
+        weight: 1
+      - path: CFM-Body-17
+        weight: 1
+      - path: CFM-Body-18
+        weight: 1
+      - path: CFM-Body-19
+        weight: 1
+      - path: CFM-Body-20
+        weight: 1
+      - path: CFM-Body-21
+        weight: 1
+      - path: CFM-Body-22
+        weight: 1
+      - path: CFM-Body-23
+        weight: 1
+      - path: CFM-Body-24
+        weight: 1
+      - path: CFM-Body-25
+        weight: 1
+      - path: CFM-Body-26
+        weight: 1
+      - path: CFM-Head-01
+        weight: 1
+      - path: CFM-Head-02
+        weight: 1
+      - path: CFM-Head-03
+        weight: 1
+      - path: CFM-Head-04
+        weight: 1
+      - path: CFM-Head-05
+        weight: 1
+      - path: CFM-Head-06
+        weight: 1
+      - path: CFM-Head-07
+        weight: 1
+      - path: CFM-Head-08
+        weight: 1
+      - path: CFM-Head-09
+        weight: 1
+      - path: CFM-Head-10
+        weight: 1
+      - path: CFM-Head-11
+        weight: 1
+      - path: CFM-Head-12
+        weight: 1
+      - path: CFM-Head-13
+        weight: 1
+      - path: CFM-Head-14
+        weight: 1
+      - path: CFM-Head-15
+        weight: 1
+      - path: CFM-Head-16
+        weight: 1
+      - path: CFM-Head-17
+        weight: 1
+      - path: CFM-Head-18
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

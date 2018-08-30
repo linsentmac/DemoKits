@@ -1,0 +1,17 @@
+{
+    "targetArr": [
+        {
+            "fileName": "power_generator"
+        },
+		{
+            "fileName": "MultiDemoDB4"
+        },
+		{
+            "fileName": "engine_2d"
+        }
+		,
+		{
+            "fileName": "coffi_box"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>lotus-service-wrapper</name>
+    </assembly>
+    <members>
+        <member name="T:Lotus.CameraCalibration">
+            <summary>
+            Camera calibration service.
+            </summary>
+        </member>
+        <member name="T:Lotus.ActionItem">
+            <summary>
+            Action Item to be execute in action queues.
+            </summary>
+        </member>
+        <member name="T:Lotus.ActionMainQueue">
+            <summary>
+            The Main action queue in which actions will be executed on main thread.
+            </summary>
+        </member>
+        <member name="T:Lotus.FileManager">
+            <summary>
+            File Manager.
+            </summary>
+        </member>
+        <member name="M:Lotus.FileManager.Init">
+            <summary>
+            Init global settings, must be called on main thread.
+            </summary>
+        </member>
+        <member name="P:Lotus.FileManager.PersistentDataPath">
+            <summary>
+            A folder to save persistant data.
+            </summary>
+        </member>
+        <member name="P:Lotus.FileManager.TemporaryCachePath">
+            <summary>
+            A folder to save temporary data.
+            </summary>
+        </member>
+        <member name="M:Lotus.FileManager.#ctor">
+            <summary>
+            Private Constructor. Obey the Singleton pattern.
+            </summary>
+        </member>
+        <member name="M:Lotus.FileManager.OpenFile(System.String,System.IO.FileMode)">
+            <summary>
+            Open file at a given path, create directory if the path 
+            does not exist in "Create" mode.
+            </summary>
+            <param name="path">File path to be open.</param>
+            <param name="mode">Open mode.</param>
+        </member>
+        <member name="M:Lotus.FileManager.DeleteFile(System.String)">
+            <summary>
+            Delete file.
+            </summary>
+            <param name="path">File path to be delete.</param>
+        </member>
+        <member name="T:Lotus.IActionQueue">
+            <summary>
+            Interface for action queue.
+            </summary>
+        </member>
+        <member name="T:Lotus.IAuthorizationListener">
+            <summary>
+            Developer Authorization process listener interface.
+            </summary>
+        </member>
+        <member name="T:Lotus.ILotusEventHandler">
+            <summary>
+            Lotus Service event handler interface.
+            </summary>
+        </member>
+        <member name="T:Lotus.LotusApplicationBase">
+            <summary>
+            The main entry point for Lotus application. It do necessary Lotus initialization and
+            it maintains several services, like <see cref="T:Lotus.ActionMainQueue"/>.
+            </summary>
+        </member>
+        <member name="T:Lotus.LotusAuthorization">
+            <summary>
+            Fetch developer app token from Developer portal.
+            </summary>
+        </member>
+        <member name="T:Lotus.LotusEvent">
+            <summary>
+            Lotus service events.
+            </summary>
+        </member>
+        <member name="T:Lotus.LotusEventCenterBase">
+            <summary>
+            Collect and dispatch Lotus Service envents.
+            </summary>
+        </member>
+        <member name="M:Lotus.LotusEventCenterBase.Register(Lotus.ILotusEventHandler)">
+            <summary>
+            Register an event handler which receive Lotus events. 
+            </summary>
+        </member>
+        <member name="M:Lotus.LotusEventCenterBase.UnRegister(Lotus.ILotusEventHandler)">
+            <summary>
+            Stop handler watch the Lotus events. 
+            </summary>
+        </member>
+        <member name="M:Lotus.LotusEventCenterBase.DispatchEvents">
+            <summary>
+            Collect native events and dispatch them to handlers.
+            </summary>
+        </member>
+        <member name="T:Lotus.LotusLog">
+            <summary>
+            Enable or Disable Lotus native service logging.
+            </summary>
+        </member>
+        <member name="T:Lotus.RecognitionServiceBase">
+            <summary>
+             A central place to control lifetime of recognition serice. 
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionServiceBase.Init">
+            <summary>
+             Init recognition service.
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionServiceBase.Deinit">
+            <summary>
+             Deinit recognition service.
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionServiceBase.ConnectCamera(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Open web / on-devicve camera.
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionServiceBase.StartRecognition(Lotus.RecognitionBase.Mode,System.Int32)">
+            <summary>
+            Start recogniton engine.
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionServiceBase.DisconnectCamera">
+            <summary>
+            Close web / on-devicve camera.
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionServiceBase.StopRecognition">
+            <summary>
+            Stop recogniton engine.
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionServiceBase.UpdateNativeTexture">
+            <summary>
+            Update video background texture content.
+            </summary>
+        </member>
+        <member name="T:Lotus.NativeCameraBase">
+            <summary>
+            Web/on-device RGB Camera Controller.
+            </summary>
+        </member>
+        <member name="M:Lotus.NativeCameraBase.Disconnect">
+            <summary>
+            Init RGB camera.
+            </summary>
+        </member>
+        <member name="M:Lotus.NativeCameraBase.SetPreviewSize(System.Int32,System.Int32)">
+            <summary>
+            Set camera preview size.
+            </summary>
+        </member>
+        <member name="M:Lotus.NativeCameraBase.SetPreviewFps(System.Int32)">
+            <summary>
+            Set camera preview frame rates.
+            </summary>
+        </member>
+        <member name="M:Lotus.NativeCameraBase.StartPreview">
+            <summary>
+            Start camera preview. 
+            </summary>
+        </member>
+        <member name="M:Lotus.NativeCameraBase.StopPreview">
+            <summary>
+            Stop camera preview.
+            </summary>
+        </member>
+        <member name="M:Lotus.NativeCameraBase.GetCalibration">
+            <summary>
+            Get camera calibration data, return default value if camera not been calibrated.
+            </summary>
+        </member>
+        <member name="M:Lotus.NativeCameraBase.GetDefaultCalibration">
+            <summary>
+            Default camera calibration data.
+            </summary>
+        </member>
+        <member name="T:Lotus.NativeCameraRecorderBase">
+            <summary>
+            Record RGB camera preview frames and save it to file on devices.
+            </summary>
+        </member>
+        <member name="T:Lotus.RecognitionBase">
+            <summary>
+            Recognition Engine Contoller.
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionBase.SetRecognitionMode(Lotus.RecognitionBase.Mode)">
+            <summary>
+            Set Recogniton Mode.(deprecated)
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionBase.SetRecognitionFps(System.Int32)">
+            <summary>
+            Set request recogniton frame rate.
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionBase.AddTarget(System.String,System.Int32)">
+            <summary>
+            Add a recognition target to the engine by a given name(target feature db path) and id.
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionBase.IsTargetAdded(System.String,System.Int32)">
+            <summary>
+            Check if a target have been added to engine. 
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionBase.Start(System.String,System.Byte[])">
+            <summary>
+            Start recognition engine.  
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionBase.Stop">
+            <summary>
+            Stop recognition engine.  
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionBase.Pause">
+            <summary>
+            Pause recognition engine.  
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionBase.Resume">
+            <summary>
+            Resume recognition engine.  
+            </summary>
+        </member>
+        <member name="M:Lotus.RecognitionBase.Target2RGBCamera(UnityEngine.Matrix4x4@,System.Int32@)">
+            <summary>
+            Get target-camera transformation by a given target id.   
+            </summary>
+        </member>
+        <member name="T:Lotus.Singleton`1">
+            <summary>
+            Base class for Singleton pattern.
+            </summary>
+        </member>
+        <member name="T:CaptureFrameBase">
+            <summary>
+            Camera frame capture. 
+            </summary>
+        </member>
+    </members>
+</doc>

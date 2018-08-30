@@ -1,0 +1,2745 @@
+fileFormatVersion: 2
+guid: f73856e0f970a024bacc034e1db224cc
+timeCreated: 1502937397
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Animatable
+    100002: Animatable 1
+    100004: Animatable 10
+    100006: Animatable 11
+    100008: Animatable 12
+    100010: Animatable 13
+    100012: Animatable 14
+    100014: Animatable 15
+    100016: Animatable 16
+    100018: Animatable 17
+    100020: Animatable 18
+    100022: Animatable 19
+    100024: Animatable 2
+    100026: Animatable 20
+    100028: Animatable 21
+    100030: Animatable 22
+    100032: Animatable 23
+    100034: Animatable 3
+    100036: Animatable 4
+    100038: Animatable 5
+    100040: Animatable 6
+    100042: Animatable 7
+    100044: Animatable 8
+    100046: Animatable 9
+    100048: //RootNode
+    100050: carrosserie
+    100052: carrosserie 1
+    100054: carrosserie 10
+    100056: carrosserie 11
+    100058: carrosserie 12
+    100060: carrosserie 13
+    100062: carrosserie 14
+    100064: carrosserie 15
+    100066: carrosserie 16
+    100068: carrosserie 17
+    100070: carrosserie 18
+    100072: carrosserie 19
+    100074: carrosserie 2
+    100076: carrosserie 20
+    100078: carrosserie 21
+    100080: carrosserie 22
+    100082: carrosserie 23
+    100084: carrosserie 3
+    100086: carrosserie 4
+    100088: carrosserie 5
+    100090: carrosserie 6
+    100092: carrosserie 7
+    100094: carrosserie 8
+    100096: carrosserie 9
+    100098: door_front_L
+    100100: door_front_L 1
+    100102: door_front_L 10
+    100104: door_front_L 11
+    100106: door_front_L 12
+    100108: door_front_L 13
+    100110: door_front_L 14
+    100112: door_front_L 15
+    100114: door_front_L 16
+    100116: door_front_L 17
+    100118: door_front_L 18
+    100120: door_front_L 19
+    100122: door_front_L 2
+    100124: door_front_L 20
+    100126: door_front_L 21
+    100128: door_front_L 22
+    100130: door_front_L 23
+    100132: door_front_L 3
+    100134: door_front_L 4
+    100136: door_front_L 5
+    100138: door_front_L 6
+    100140: door_front_L 7
+    100142: door_front_L 8
+    100144: door_front_L 9
+    100146: door_front_R
+    100148: door_front_R 1
+    100150: door_front_R 10
+    100152: door_front_R 11
+    100154: door_front_R 12
+    100156: door_front_R 13
+    100158: door_front_R 14
+    100160: door_front_R 15
+    100162: door_front_R 16
+    100164: door_front_R 17
+    100166: door_front_R 18
+    100168: door_front_R 19
+    100170: door_front_R 2
+    100172: door_front_R 20
+    100174: door_front_R 21
+    100176: door_front_R 22
+    100178: door_front_R 23
+    100180: door_front_R 3
+    100182: door_front_R 4
+    100184: door_front_R 5
+    100186: door_front_R 6
+    100188: door_front_R 7
+    100190: door_front_R 8
+    100192: door_front_R 9
+    100194: elements
+    100196: elements 1
+    100198: elements 10
+    100200: elements 11
+    100202: elements 12
+    100204: elements 13
+    100206: elements 14
+    100208: elements 15
+    100210: elements 16
+    100212: elements 17
+    100214: elements 18
+    100216: elements 19
+    100218: elements 2
+    100220: elements 20
+    100222: elements 21
+    100224: elements 22
+    100226: elements 23
+    100228: elements 3
+    100230: elements 4
+    100232: elements 5
+    100234: elements 6
+    100236: elements 7
+    100238: elements 8
+    100240: elements 9
+    100242: glass_front_L
+    100244: glass_front_L 1
+    100246: glass_front_L 10
+    100248: glass_front_L 11
+    100250: glass_front_L 12
+    100252: glass_front_L 13
+    100254: glass_front_L 14
+    100256: glass_front_L 15
+    100258: glass_front_L 16
+    100260: glass_front_L 17
+    100262: glass_front_L 18
+    100264: glass_front_L 19
+    100266: glass_front_L 2
+    100268: glass_front_L 20
+    100270: glass_front_L 21
+    100272: glass_front_L 22
+    100274: glass_front_L 23
+    100276: glass_front_L 3
+    100278: glass_front_L 4
+    100280: glass_front_L 5
+    100282: glass_front_L 6
+    100284: glass_front_L 7
+    100286: glass_front_L 8
+    100288: glass_front_L 9
+    100290: glass_front_R
+    100292: glass_front_R 1
+    100294: glass_front_R 10
+    100296: glass_front_R 11
+    100298: glass_front_R 12
+    100300: glass_front_R 13
+    100302: glass_front_R 14
+    100304: glass_front_R 15
+    100306: glass_front_R 16
+    100308: glass_front_R 17
+    100310: glass_front_R 18
+    100312: glass_front_R 19
+    100314: glass_front_R 2
+    100316: glass_front_R 20
+    100318: glass_front_R 21
+    100320: glass_front_R 22
+    100322: glass_front_R 23
+    100324: glass_front_R 3
+    100326: glass_front_R 4
+    100328: glass_front_R 5
+    100330: glass_front_R 6
+    100332: glass_front_R 7
+    100334: glass_front_R 8
+    100336: glass_front_R 9
+    100338: hood
+    100340: hood 1
+    100342: hood 10
+    100344: hood 11
+    100346: hood 12
+    100348: hood 13
+    100350: hood 14
+    100352: hood 15
+    100354: hood 16
+    100356: hood 17
+    100358: hood 18
+    100360: hood 19
+    100362: hood 2
+    100364: hood 20
+    100366: hood 21
+    100368: hood 22
+    100370: hood 23
+    100372: hood 3
+    100374: hood 4
+    100376: hood 5
+    100378: hood 6
+    100380: hood 7
+    100382: hood 8
+    100384: hood 9
+    100386: spoiler
+    100388: spoiler 1
+    100390: spoiler 10
+    100392: spoiler 11
+    100394: spoiler 12
+    100396: spoiler 13
+    100398: spoiler 14
+    100400: spoiler 15
+    100402: spoiler 16
+    100404: spoiler 17
+    100406: spoiler 18
+    100408: spoiler 19
+    100410: spoiler 2
+    100412: spoiler 20
+    100414: spoiler 21
+    100416: spoiler 22
+    100418: spoiler 23
+    100420: spoiler 3
+    100422: spoiler 4
+    100424: spoiler 5
+    100426: spoiler 6
+    100428: spoiler 7
+    100430: spoiler 8
+    100432: spoiler 9
+    100434: Sport_car
+    100436: Sport_car1
+    100438: Sport_car10
+    100440: Sport_car11
+    100442: Sport_car12
+    100444: Sport_car13
+    100446: Sport_car14
+    100448: Sport_car15
+    100450: Sport_car16
+    100452: Sport_car17
+    100454: Sport_car18
+    100456: Sport_car19
+    100458: Sport_car2
+    100460: Sport_car20
+    100462: Sport_car21
+    100464: Sport_car22
+    100466: Sport_car23
+    100468: Sport_car3
+    100470: Sport_car4
+    100472: Sport_car5
+    100474: Sport_car6
+    100476: Sport_car7
+    100478: Sport_car8
+    100480: Sport_car9
+    100482: Steering_wheel
+    100484: Steering_wheel 1
+    100486: Steering_wheel 10
+    100488: Steering_wheel 11
+    100490: Steering_wheel 12
+    100492: Steering_wheel 13
+    100494: Steering_wheel 14
+    100496: Steering_wheel 15
+    100498: Steering_wheel 16
+    100500: Steering_wheel 17
+    100502: Steering_wheel 18
+    100504: Steering_wheel 19
+    100506: Steering_wheel 2
+    100508: Steering_wheel 20
+    100510: Steering_wheel 21
+    100512: Steering_wheel 22
+    100514: Steering_wheel 23
+    100516: Steering_wheel 3
+    100518: Steering_wheel 4
+    100520: Steering_wheel 5
+    100522: Steering_wheel 6
+    100524: Steering_wheel 7
+    100526: Steering_wheel 8
+    100528: Steering_wheel 9
+    100530: Tire_Back_L
+    100532: Tire_Back_L 1
+    100534: Tire_Back_L 10
+    100536: Tire_Back_L 11
+    100538: Tire_Back_L 12
+    100540: Tire_Back_L 13
+    100542: Tire_Back_L 14
+    100544: Tire_Back_L 15
+    100546: Tire_Back_L 16
+    100548: Tire_Back_L 17
+    100550: Tire_Back_L 18
+    100552: Tire_Back_L 19
+    100554: Tire_Back_L 2
+    100556: Tire_Back_L 20
+    100558: Tire_Back_L 21
+    100560: Tire_Back_L 22
+    100562: Tire_Back_L 23
+    100564: Tire_Back_L 3
+    100566: Tire_Back_L 4
+    100568: Tire_Back_L 5
+    100570: Tire_Back_L 6
+    100572: Tire_Back_L 7
+    100574: Tire_Back_L 8
+    100576: Tire_Back_L 9
+    100578: Tire_Back_R
+    100580: Tire_Back_R 1
+    100582: Tire_Back_R 10
+    100584: Tire_Back_R 11
+    100586: Tire_Back_R 12
+    100588: Tire_Back_R 13
+    100590: Tire_Back_R 14
+    100592: Tire_Back_R 15
+    100594: Tire_Back_R 16
+    100596: Tire_Back_R 17
+    100598: Tire_Back_R 18
+    100600: Tire_Back_R 19
+    100602: Tire_Back_R 2
+    100604: Tire_Back_R 20
+    100606: Tire_Back_R 21
+    100608: Tire_Back_R 22
+    100610: Tire_Back_R 23
+    100612: Tire_Back_R 3
+    100614: Tire_Back_R 4
+    100616: Tire_Back_R 5
+    100618: Tire_Back_R 6
+    100620: Tire_Back_R 7
+    100622: Tire_Back_R 8
+    100624: Tire_Back_R 9
+    100626: Tire_Front_L
+    100628: Tire_Front_L 1
+    100630: Tire_Front_L 10
+    100632: Tire_Front_L 11
+    100634: Tire_Front_L 12
+    100636: Tire_Front_L 13
+    100638: Tire_Front_L 14
+    100640: Tire_Front_L 15
+    100642: Tire_Front_L 16
+    100644: Tire_Front_L 17
+    100646: Tire_Front_L 18
+    100648: Tire_Front_L 19
+    100650: Tire_Front_L 2
+    100652: Tire_Front_L 20
+    100654: Tire_Front_L 21
+    100656: Tire_Front_L 22
+    100658: Tire_Front_L 23
+    100660: Tire_Front_L 3
+    100662: Tire_Front_L 4
+    100664: Tire_Front_L 5
+    100666: Tire_Front_L 6
+    100668: Tire_Front_L 7
+    100670: Tire_Front_L 8
+    100672: Tire_Front_L 9
+    100674: Tire_Front_R
+    100676: Tire_Front_R 1
+    100678: Tire_Front_R 10
+    100680: Tire_Front_R 11
+    100682: Tire_Front_R 12
+    100684: Tire_Front_R 13
+    100686: Tire_Front_R 14
+    100688: Tire_Front_R 15
+    100690: Tire_Front_R 16
+    100692: Tire_Front_R 17
+    100694: Tire_Front_R 18
+    100696: Tire_Front_R 19
+    100698: Tire_Front_R 2
+    100700: Tire_Front_R 20
+    100702: Tire_Front_R 21
+    100704: Tire_Front_R 22
+    100706: Tire_Front_R 23
+    100708: Tire_Front_R 3
+    100710: Tire_Front_R 4
+    100712: Tire_Front_R 5
+    100714: Tire_Front_R 6
+    100716: Tire_Front_R 7
+    100718: Tire_Front_R 8
+    100720: Tire_Front_R 9
+    100722: Tires
+    100724: Tires 1
+    100726: Tires 10
+    100728: Tires 11
+    100730: Tires 12
+    100732: Tires 13
+    100734: Tires 14
+    100736: Tires 15
+    100738: Tires 16
+    100740: Tires 17
+    100742: Tires 18
+    100744: Tires 19
+    100746: Tires 2
+    100748: Tires 20
+    100750: Tires 21
+    100752: Tires 22
+    100754: Tires 23
+    100756: Tires 3
+    100758: Tires 4
+    100760: Tires 5
+    100762: Tires 6
+    100764: Tires 7
+    100766: Tires 8
+    100768: Tires 9
+    100770: Trunk
+    100772: Trunk 1
+    100774: Trunk 10
+    100776: Trunk 11
+    100778: Trunk 12
+    100780: Trunk 13
+    100782: Trunk 14
+    100784: Trunk 15
+    100786: Trunk 16
+    100788: Trunk 17
+    100790: Trunk 18
+    100792: Trunk 19
+    100794: Trunk 2
+    100796: Trunk 20
+    100798: Trunk 21
+    100800: Trunk 22
+    100802: Trunk 23
+    100804: Trunk 3
+    100806: Trunk 4
+    100808: Trunk 5
+    100810: Trunk 6
+    100812: Trunk 7
+    100814: Trunk 8
+    100816: Trunk 9
+    400000: Animatable
+    400002: Animatable 1
+    400004: Animatable 10
+    400006: Animatable 11
+    400008: Animatable 12
+    400010: Animatable 13
+    400012: Animatable 14
+    400014: Animatable 15
+    400016: Animatable 16
+    400018: Animatable 17
+    400020: Animatable 18
+    400022: Animatable 19
+    400024: Animatable 2
+    400026: Animatable 20
+    400028: Animatable 21
+    400030: Animatable 22
+    400032: Animatable 23
+    400034: Animatable 3
+    400036: Animatable 4
+    400038: Animatable 5
+    400040: Animatable 6
+    400042: Animatable 7
+    400044: Animatable 8
+    400046: Animatable 9
+    400048: //RootNode
+    400050: carrosserie
+    400052: carrosserie 1
+    400054: carrosserie 10
+    400056: carrosserie 11
+    400058: carrosserie 12
+    400060: carrosserie 13
+    400062: carrosserie 14
+    400064: carrosserie 15
+    400066: carrosserie 16
+    400068: carrosserie 17
+    400070: carrosserie 18
+    400072: carrosserie 19
+    400074: carrosserie 2
+    400076: carrosserie 20
+    400078: carrosserie 21
+    400080: carrosserie 22
+    400082: carrosserie 23
+    400084: carrosserie 3
+    400086: carrosserie 4
+    400088: carrosserie 5
+    400090: carrosserie 6
+    400092: carrosserie 7
+    400094: carrosserie 8
+    400096: carrosserie 9
+    400098: door_front_L
+    400100: door_front_L 1
+    400102: door_front_L 10
+    400104: door_front_L 11
+    400106: door_front_L 12
+    400108: door_front_L 13
+    400110: door_front_L 14
+    400112: door_front_L 15
+    400114: door_front_L 16
+    400116: door_front_L 17
+    400118: door_front_L 18
+    400120: door_front_L 19
+    400122: door_front_L 2
+    400124: door_front_L 20
+    400126: door_front_L 21
+    400128: door_front_L 22
+    400130: door_front_L 23
+    400132: door_front_L 3
+    400134: door_front_L 4
+    400136: door_front_L 5
+    400138: door_front_L 6
+    400140: door_front_L 7
+    400142: door_front_L 8
+    400144: door_front_L 9
+    400146: door_front_R
+    400148: door_front_R 1
+    400150: door_front_R 10
+    400152: door_front_R 11
+    400154: door_front_R 12
+    400156: door_front_R 13
+    400158: door_front_R 14
+    400160: door_front_R 15
+    400162: door_front_R 16
+    400164: door_front_R 17
+    400166: door_front_R 18
+    400168: door_front_R 19
+    400170: door_front_R 2
+    400172: door_front_R 20
+    400174: door_front_R 21
+    400176: door_front_R 22
+    400178: door_front_R 23
+    400180: door_front_R 3
+    400182: door_front_R 4
+    400184: door_front_R 5
+    400186: door_front_R 6
+    400188: door_front_R 7
+    400190: door_front_R 8
+    400192: door_front_R 9
+    400194: elements
+    400196: elements 1
+    400198: elements 10
+    400200: elements 11
+    400202: elements 12
+    400204: elements 13
+    400206: elements 14
+    400208: elements 15
+    400210: elements 16
+    400212: elements 17
+    400214: elements 18
+    400216: elements 19
+    400218: elements 2
+    400220: elements 20
+    400222: elements 21
+    400224: elements 22
+    400226: elements 23
+    400228: elements 3
+    400230: elements 4
+    400232: elements 5
+    400234: elements 6
+    400236: elements 7
+    400238: elements 8
+    400240: elements 9
+    400242: glass_front_L
+    400244: glass_front_L 1
+    400246: glass_front_L 10
+    400248: glass_front_L 11
+    400250: glass_front_L 12
+    400252: glass_front_L 13
+    400254: glass_front_L 14
+    400256: glass_front_L 15
+    400258: glass_front_L 16
+    400260: glass_front_L 17
+    400262: glass_front_L 18
+    400264: glass_front_L 19
+    400266: glass_front_L 2
+    400268: glass_front_L 20
+    400270: glass_front_L 21
+    400272: glass_front_L 22
+    400274: glass_front_L 23
+    400276: glass_front_L 3
+    400278: glass_front_L 4
+    400280: glass_front_L 5
+    400282: glass_front_L 6
+    400284: glass_front_L 7
+    400286: glass_front_L 8
+    400288: glass_front_L 9
+    400290: glass_front_R
+    400292: glass_front_R 1
+    400294: glass_front_R 10
+    400296: glass_front_R 11
+    400298: glass_front_R 12
+    400300: glass_front_R 13
+    400302: glass_front_R 14
+    400304: glass_front_R 15
+    400306: glass_front_R 16
+    400308: glass_front_R 17
+    400310: glass_front_R 18
+    400312: glass_front_R 19
+    400314: glass_front_R 2
+    400316: glass_front_R 20
+    400318: glass_front_R 21
+    400320: glass_front_R 22
+    400322: glass_front_R 23
+    400324: glass_front_R 3
+    400326: glass_front_R 4
+    400328: glass_front_R 5
+    400330: glass_front_R 6
+    400332: glass_front_R 7
+    400334: glass_front_R 8
+    400336: glass_front_R 9
+    400338: hood
+    400340: hood 1
+    400342: hood 10
+    400344: hood 11
+    400346: hood 12
+    400348: hood 13
+    400350: hood 14
+    400352: hood 15
+    400354: hood 16
+    400356: hood 17
+    400358: hood 18
+    400360: hood 19
+    400362: hood 2
+    400364: hood 20
+    400366: hood 21
+    400368: hood 22
+    400370: hood 23
+    400372: hood 3
+    400374: hood 4
+    400376: hood 5
+    400378: hood 6
+    400380: hood 7
+    400382: hood 8
+    400384: hood 9
+    400386: spoiler
+    400388: spoiler 1
+    400390: spoiler 10
+    400392: spoiler 11
+    400394: spoiler 12
+    400396: spoiler 13
+    400398: spoiler 14
+    400400: spoiler 15
+    400402: spoiler 16
+    400404: spoiler 17
+    400406: spoiler 18
+    400408: spoiler 19
+    400410: spoiler 2
+    400412: spoiler 20
+    400414: spoiler 21
+    400416: spoiler 22
+    400418: spoiler 23
+    400420: spoiler 3
+    400422: spoiler 4
+    400424: spoiler 5
+    400426: spoiler 6
+    400428: spoiler 7
+    400430: spoiler 8
+    400432: spoiler 9
+    400434: Sport_car
+    400436: Sport_car1
+    400438: Sport_car10
+    400440: Sport_car11
+    400442: Sport_car12
+    400444: Sport_car13
+    400446: Sport_car14
+    400448: Sport_car15
+    400450: Sport_car16
+    400452: Sport_car17
+    400454: Sport_car18
+    400456: Sport_car19
+    400458: Sport_car2
+    400460: Sport_car20
+    400462: Sport_car21
+    400464: Sport_car22
+    400466: Sport_car23
+    400468: Sport_car3
+    400470: Sport_car4
+    400472: Sport_car5
+    400474: Sport_car6
+    400476: Sport_car7
+    400478: Sport_car8
+    400480: Sport_car9
+    400482: Steering_wheel
+    400484: Steering_wheel 1
+    400486: Steering_wheel 10
+    400488: Steering_wheel 11
+    400490: Steering_wheel 12
+    400492: Steering_wheel 13
+    400494: Steering_wheel 14
+    400496: Steering_wheel 15
+    400498: Steering_wheel 16
+    400500: Steering_wheel 17
+    400502: Steering_wheel 18
+    400504: Steering_wheel 19
+    400506: Steering_wheel 2
+    400508: Steering_wheel 20
+    400510: Steering_wheel 21
+    400512: Steering_wheel 22
+    400514: Steering_wheel 23
+    400516: Steering_wheel 3
+    400518: Steering_wheel 4
+    400520: Steering_wheel 5
+    400522: Steering_wheel 6
+    400524: Steering_wheel 7
+    400526: Steering_wheel 8
+    400528: Steering_wheel 9
+    400530: Tire_Back_L
+    400532: Tire_Back_L 1
+    400534: Tire_Back_L 10
+    400536: Tire_Back_L 11
+    400538: Tire_Back_L 12
+    400540: Tire_Back_L 13
+    400542: Tire_Back_L 14
+    400544: Tire_Back_L 15
+    400546: Tire_Back_L 16
+    400548: Tire_Back_L 17
+    400550: Tire_Back_L 18
+    400552: Tire_Back_L 19
+    400554: Tire_Back_L 2
+    400556: Tire_Back_L 20
+    400558: Tire_Back_L 21
+    400560: Tire_Back_L 22
+    400562: Tire_Back_L 23
+    400564: Tire_Back_L 3
+    400566: Tire_Back_L 4
+    400568: Tire_Back_L 5
+    400570: Tire_Back_L 6
+    400572: Tire_Back_L 7
+    400574: Tire_Back_L 8
+    400576: Tire_Back_L 9
+    400578: Tire_Back_R
+    400580: Tire_Back_R 1
+    400582: Tire_Back_R 10
+    400584: Tire_Back_R 11
+    400586: Tire_Back_R 12
+    400588: Tire_Back_R 13
+    400590: Tire_Back_R 14
+    400592: Tire_Back_R 15
+    400594: Tire_Back_R 16
+    400596: Tire_Back_R 17
+    400598: Tire_Back_R 18
+    400600: Tire_Back_R 19
+    400602: Tire_Back_R 2
+    400604: Tire_Back_R 20
+    400606: Tire_Back_R 21
+    400608: Tire_Back_R 22
+    400610: Tire_Back_R 23
+    400612: Tire_Back_R 3
+    400614: Tire_Back_R 4
+    400616: Tire_Back_R 5
+    400618: Tire_Back_R 6
+    400620: Tire_Back_R 7
+    400622: Tire_Back_R 8
+    400624: Tire_Back_R 9
+    400626: Tire_Front_L
+    400628: Tire_Front_L 1
+    400630: Tire_Front_L 10
+    400632: Tire_Front_L 11
+    400634: Tire_Front_L 12
+    400636: Tire_Front_L 13
+    400638: Tire_Front_L 14
+    400640: Tire_Front_L 15
+    400642: Tire_Front_L 16
+    400644: Tire_Front_L 17
+    400646: Tire_Front_L 18
+    400648: Tire_Front_L 19
+    400650: Tire_Front_L 2
+    400652: Tire_Front_L 20
+    400654: Tire_Front_L 21
+    400656: Tire_Front_L 22
+    400658: Tire_Front_L 23
+    400660: Tire_Front_L 3
+    400662: Tire_Front_L 4
+    400664: Tire_Front_L 5
+    400666: Tire_Front_L 6
+    400668: Tire_Front_L 7
+    400670: Tire_Front_L 8
+    400672: Tire_Front_L 9
+    400674: Tire_Front_R
+    400676: Tire_Front_R 1
+    400678: Tire_Front_R 10
+    400680: Tire_Front_R 11
+    400682: Tire_Front_R 12
+    400684: Tire_Front_R 13
+    400686: Tire_Front_R 14
+    400688: Tire_Front_R 15
+    400690: Tire_Front_R 16
+    400692: Tire_Front_R 17
+    400694: Tire_Front_R 18
+    400696: Tire_Front_R 19
+    400698: Tire_Front_R 2
+    400700: Tire_Front_R 20
+    400702: Tire_Front_R 21
+    400704: Tire_Front_R 22
+    400706: Tire_Front_R 23
+    400708: Tire_Front_R 3
+    400710: Tire_Front_R 4
+    400712: Tire_Front_R 5
+    400714: Tire_Front_R 6
+    400716: Tire_Front_R 7
+    400718: Tire_Front_R 8
+    400720: Tire_Front_R 9
+    400722: Tires
+    400724: Tires 1
+    400726: Tires 10
+    400728: Tires 11
+    400730: Tires 12
+    400732: Tires 13
+    400734: Tires 14
+    400736: Tires 15
+    400738: Tires 16
+    400740: Tires 17
+    400742: Tires 18
+    400744: Tires 19
+    400746: Tires 2
+    400748: Tires 20
+    400750: Tires 21
+    400752: Tires 22
+    400754: Tires 23
+    400756: Tires 3
+    400758: Tires 4
+    400760: Tires 5
+    400762: Tires 6
+    400764: Tires 7
+    400766: Tires 8
+    400768: Tires 9
+    400770: Trunk
+    400772: Trunk 1
+    400774: Trunk 10
+    400776: Trunk 11
+    400778: Trunk 12
+    400780: Trunk 13
+    400782: Trunk 14
+    400784: Trunk 15
+    400786: Trunk 16
+    400788: Trunk 17
+    400790: Trunk 18
+    400792: Trunk 19
+    400794: Trunk 2
+    400796: Trunk 20
+    400798: Trunk 21
+    400800: Trunk 22
+    400802: Trunk 23
+    400804: Trunk 3
+    400806: Trunk 4
+    400808: Trunk 5
+    400810: Trunk 6
+    400812: Trunk 7
+    400814: Trunk 8
+    400816: Trunk 9
+    2300000: carrosserie
+    2300002: carrosserie 1
+    2300004: carrosserie 10
+    2300006: carrosserie 11
+    2300008: carrosserie 12
+    2300010: carrosserie 13
+    2300012: carrosserie 14
+    2300014: carrosserie 15
+    2300016: carrosserie 16
+    2300018: carrosserie 17
+    2300020: carrosserie 18
+    2300022: carrosserie 19
+    2300024: carrosserie 2
+    2300026: carrosserie 20
+    2300028: carrosserie 21
+    2300030: carrosserie 22
+    2300032: carrosserie 23
+    2300034: carrosserie 3
+    2300036: carrosserie 4
+    2300038: carrosserie 5
+    2300040: carrosserie 6
+    2300042: carrosserie 7
+    2300044: carrosserie 8
+    2300046: carrosserie 9
+    2300048: door_front_L
+    2300050: door_front_L 1
+    2300052: door_front_L 10
+    2300054: door_front_L 11
+    2300056: door_front_L 12
+    2300058: door_front_L 13
+    2300060: door_front_L 14
+    2300062: door_front_L 15
+    2300064: door_front_L 16
+    2300066: door_front_L 17
+    2300068: door_front_L 18
+    2300070: door_front_L 19
+    2300072: door_front_L 2
+    2300074: door_front_L 20
+    2300076: door_front_L 21
+    2300078: door_front_L 22
+    2300080: door_front_L 23
+    2300082: door_front_L 3
+    2300084: door_front_L 4
+    2300086: door_front_L 5
+    2300088: door_front_L 6
+    2300090: door_front_L 7
+    2300092: door_front_L 8
+    2300094: door_front_L 9
+    2300096: door_front_R
+    2300098: door_front_R 1
+    2300100: door_front_R 10
+    2300102: door_front_R 11
+    2300104: door_front_R 12
+    2300106: door_front_R 13
+    2300108: door_front_R 14
+    2300110: door_front_R 15
+    2300112: door_front_R 16
+    2300114: door_front_R 17
+    2300116: door_front_R 18
+    2300118: door_front_R 19
+    2300120: door_front_R 2
+    2300122: door_front_R 20
+    2300124: door_front_R 21
+    2300126: door_front_R 22
+    2300128: door_front_R 23
+    2300130: door_front_R 3
+    2300132: door_front_R 4
+    2300134: door_front_R 5
+    2300136: door_front_R 6
+    2300138: door_front_R 7
+    2300140: door_front_R 8
+    2300142: door_front_R 9
+    2300144: elements
+    2300146: elements 1
+    2300148: elements 10
+    2300150: elements 11
+    2300152: elements 12
+    2300154: elements 13
+    2300156: elements 14
+    2300158: elements 15
+    2300160: elements 16
+    2300162: elements 17
+    2300164: elements 18
+    2300166: elements 19
+    2300168: elements 2
+    2300170: elements 20
+    2300172: elements 21
+    2300174: elements 22
+    2300176: elements 23
+    2300178: elements 3
+    2300180: elements 4
+    2300182: elements 5
+    2300184: elements 6
+    2300186: elements 7
+    2300188: elements 8
+    2300190: elements 9
+    2300192: glass_front_L
+    2300194: glass_front_L 1
+    2300196: glass_front_L 10
+    2300198: glass_front_L 11
+    2300200: glass_front_L 12
+    2300202: glass_front_L 13
+    2300204: glass_front_L 14
+    2300206: glass_front_L 15
+    2300208: glass_front_L 16
+    2300210: glass_front_L 17
+    2300212: glass_front_L 18
+    2300214: glass_front_L 19
+    2300216: glass_front_L 2
+    2300218: glass_front_L 20
+    2300220: glass_front_L 21
+    2300222: glass_front_L 22
+    2300224: glass_front_L 23
+    2300226: glass_front_L 3
+    2300228: glass_front_L 4
+    2300230: glass_front_L 5
+    2300232: glass_front_L 6
+    2300234: glass_front_L 7
+    2300236: glass_front_L 8
+    2300238: glass_front_L 9
+    2300240: glass_front_R
+    2300242: glass_front_R 1
+    2300244: glass_front_R 10
+    2300246: glass_front_R 11
+    2300248: glass_front_R 12
+    2300250: glass_front_R 13
+    2300252: glass_front_R 14
+    2300254: glass_front_R 15
+    2300256: glass_front_R 16
+    2300258: glass_front_R 17
+    2300260: glass_front_R 18
+    2300262: glass_front_R 19
+    2300264: glass_front_R 2
+    2300266: glass_front_R 20
+    2300268: glass_front_R 21
+    2300270: glass_front_R 22
+    2300272: glass_front_R 23
+    2300274: glass_front_R 3
+    2300276: glass_front_R 4
+    2300278: glass_front_R 5
+    2300280: glass_front_R 6
+    2300282: glass_front_R 7
+    2300284: glass_front_R 8
+    2300286: glass_front_R 9
+    2300288: hood
+    2300290: hood 1
+    2300292: hood 10
+    2300294: hood 11
+    2300296: hood 12
+    2300298: hood 13
+    2300300: hood 14
+    2300302: hood 15
+    2300304: hood 16
+    2300306: hood 17
+    2300308: hood 18
+    2300310: hood 19
+    2300312: hood 2
+    2300314: hood 20
+    2300316: hood 21
+    2300318: hood 22
+    2300320: hood 23
+    2300322: hood 3
+    2300324: hood 4
+    2300326: hood 5
+    2300328: hood 6
+    2300330: hood 7
+    2300332: hood 8
+    2300334: hood 9
+    2300336: spoiler
+    2300338: spoiler 1
+    2300340: spoiler 10
+    2300342: spoiler 11
+    2300344: spoiler 12
+    2300346: spoiler 13
+    2300348: spoiler 14
+    2300350: spoiler 15
+    2300352: spoiler 16
+    2300354: spoiler 17
+    2300356: spoiler 18
+    2300358: spoiler 19
+    2300360: spoiler 2
+    2300362: spoiler 20
+    2300364: spoiler 21
+    2300366: spoiler 22
+    2300368: spoiler 23
+    2300370: spoiler 3
+    2300372: spoiler 4
+    2300374: spoiler 5
+    2300376: spoiler 6
+    2300378: spoiler 7
+    2300380: spoiler 8
+    2300382: spoiler 9
+    2300384: Steering_wheel
+    2300386: Steering_wheel 1
+    2300388: Steering_wheel 10
+    2300390: Steering_wheel 11
+    2300392: Steering_wheel 12
+    2300394: Steering_wheel 13
+    2300396: Steering_wheel 14
+    2300398: Steering_wheel 15
+    2300400: Steering_wheel 16
+    2300402: Steering_wheel 17
+    2300404: Steering_wheel 18
+    2300406: Steering_wheel 19
+    2300408: Steering_wheel 2
+    2300410: Steering_wheel 20
+    2300412: Steering_wheel 21
+    2300414: Steering_wheel 22
+    2300416: Steering_wheel 23
+    2300418: Steering_wheel 3
+    2300420: Steering_wheel 4
+    2300422: Steering_wheel 5
+    2300424: Steering_wheel 6
+    2300426: Steering_wheel 7
+    2300428: Steering_wheel 8
+    2300430: Steering_wheel 9
+    2300432: Tire_Back_L
+    2300434: Tire_Back_L 1
+    2300436: Tire_Back_L 10
+    2300438: Tire_Back_L 11
+    2300440: Tire_Back_L 12
+    2300442: Tire_Back_L 13
+    2300444: Tire_Back_L 14
+    2300446: Tire_Back_L 15
+    2300448: Tire_Back_L 16
+    2300450: Tire_Back_L 17
+    2300452: Tire_Back_L 18
+    2300454: Tire_Back_L 19
+    2300456: Tire_Back_L 2
+    2300458: Tire_Back_L 20
+    2300460: Tire_Back_L 21
+    2300462: Tire_Back_L 22
+    2300464: Tire_Back_L 23
+    2300466: Tire_Back_L 3
+    2300468: Tire_Back_L 4
+    2300470: Tire_Back_L 5
+    2300472: Tire_Back_L 6
+    2300474: Tire_Back_L 7
+    2300476: Tire_Back_L 8
+    2300478: Tire_Back_L 9
+    2300480: Tire_Back_R
+    2300482: Tire_Back_R 1
+    2300484: Tire_Back_R 10
+    2300486: Tire_Back_R 11
+    2300488: Tire_Back_R 12
+    2300490: Tire_Back_R 13
+    2300492: Tire_Back_R 14
+    2300494: Tire_Back_R 15
+    2300496: Tire_Back_R 16
+    2300498: Tire_Back_R 17
+    2300500: Tire_Back_R 18
+    2300502: Tire_Back_R 19
+    2300504: Tire_Back_R 2
+    2300506: Tire_Back_R 20
+    2300508: Tire_Back_R 21
+    2300510: Tire_Back_R 22
+    2300512: Tire_Back_R 23
+    2300514: Tire_Back_R 3
+    2300516: Tire_Back_R 4
+    2300518: Tire_Back_R 5
+    2300520: Tire_Back_R 6
+    2300522: Tire_Back_R 7
+    2300524: Tire_Back_R 8
+    2300526: Tire_Back_R 9
+    2300528: Tire_Front_L
+    2300530: Tire_Front_L 1
+    2300532: Tire_Front_L 10
+    2300534: Tire_Front_L 11
+    2300536: Tire_Front_L 12
+    2300538: Tire_Front_L 13
+    2300540: Tire_Front_L 14
+    2300542: Tire_Front_L 15
+    2300544: Tire_Front_L 16
+    2300546: Tire_Front_L 17
+    2300548: Tire_Front_L 18
+    2300550: Tire_Front_L 19
+    2300552: Tire_Front_L 2
+    2300554: Tire_Front_L 20
+    2300556: Tire_Front_L 21
+    2300558: Tire_Front_L 22
+    2300560: Tire_Front_L 23
+    2300562: Tire_Front_L 3
+    2300564: Tire_Front_L 4
+    2300566: Tire_Front_L 5
+    2300568: Tire_Front_L 6
+    2300570: Tire_Front_L 7
+    2300572: Tire_Front_L 8
+    2300574: Tire_Front_L 9
+    2300576: Tire_Front_R
+    2300578: Tire_Front_R 1
+    2300580: Tire_Front_R 10
+    2300582: Tire_Front_R 11
+    2300584: Tire_Front_R 12
+    2300586: Tire_Front_R 13
+    2300588: Tire_Front_R 14
+    2300590: Tire_Front_R 15
+    2300592: Tire_Front_R 16
+    2300594: Tire_Front_R 17
+    2300596: Tire_Front_R 18
+    2300598: Tire_Front_R 19
+    2300600: Tire_Front_R 2
+    2300602: Tire_Front_R 20
+    2300604: Tire_Front_R 21
+    2300606: Tire_Front_R 22
+    2300608: Tire_Front_R 23
+    2300610: Tire_Front_R 3
+    2300612: Tire_Front_R 4
+    2300614: Tire_Front_R 5
+    2300616: Tire_Front_R 6
+    2300618: Tire_Front_R 7
+    2300620: Tire_Front_R 8
+    2300622: Tire_Front_R 9
+    2300624: Trunk
+    2300626: Trunk 1
+    2300628: Trunk 10
+    2300630: Trunk 11
+    2300632: Trunk 12
+    2300634: Trunk 13
+    2300636: Trunk 14
+    2300638: Trunk 15
+    2300640: Trunk 16
+    2300642: Trunk 17
+    2300644: Trunk 18
+    2300646: Trunk 19
+    2300648: Trunk 2
+    2300650: Trunk 20
+    2300652: Trunk 21
+    2300654: Trunk 22
+    2300656: Trunk 23
+    2300658: Trunk 3
+    2300660: Trunk 4
+    2300662: Trunk 5
+    2300664: Trunk 6
+    2300666: Trunk 7
+    2300668: Trunk 8
+    2300670: Trunk 9
+    3300000: carrosserie
+    3300002: carrosserie 1
+    3300004: carrosserie 10
+    3300006: carrosserie 11
+    3300008: carrosserie 12
+    3300010: carrosserie 13
+    3300012: carrosserie 14
+    3300014: carrosserie 15
+    3300016: carrosserie 16
+    3300018: carrosserie 17
+    3300020: carrosserie 18
+    3300022: carrosserie 19
+    3300024: carrosserie 2
+    3300026: carrosserie 20
+    3300028: carrosserie 21
+    3300030: carrosserie 22
+    3300032: carrosserie 23
+    3300034: carrosserie 3
+    3300036: carrosserie 4
+    3300038: carrosserie 5
+    3300040: carrosserie 6
+    3300042: carrosserie 7
+    3300044: carrosserie 8
+    3300046: carrosserie 9
+    3300048: door_front_L
+    3300050: door_front_L 1
+    3300052: door_front_L 10
+    3300054: door_front_L 11
+    3300056: door_front_L 12
+    3300058: door_front_L 13
+    3300060: door_front_L 14
+    3300062: door_front_L 15
+    3300064: door_front_L 16
+    3300066: door_front_L 17
+    3300068: door_front_L 18
+    3300070: door_front_L 19
+    3300072: door_front_L 2
+    3300074: door_front_L 20
+    3300076: door_front_L 21
+    3300078: door_front_L 22
+    3300080: door_front_L 23
+    3300082: door_front_L 3
+    3300084: door_front_L 4
+    3300086: door_front_L 5
+    3300088: door_front_L 6
+    3300090: door_front_L 7
+    3300092: door_front_L 8
+    3300094: door_front_L 9
+    3300096: door_front_R
+    3300098: door_front_R 1
+    3300100: door_front_R 10
+    3300102: door_front_R 11
+    3300104: door_front_R 12
+    3300106: door_front_R 13
+    3300108: door_front_R 14
+    3300110: door_front_R 15
+    3300112: door_front_R 16
+    3300114: door_front_R 17
+    3300116: door_front_R 18
+    3300118: door_front_R 19
+    3300120: door_front_R 2
+    3300122: door_front_R 20
+    3300124: door_front_R 21
+    3300126: door_front_R 22
+    3300128: door_front_R 23
+    3300130: door_front_R 3
+    3300132: door_front_R 4
+    3300134: door_front_R 5
+    3300136: door_front_R 6
+    3300138: door_front_R 7
+    3300140: door_front_R 8
+    3300142: door_front_R 9
+    3300144: elements
+    3300146: elements 1
+    3300148: elements 10
+    3300150: elements 11
+    3300152: elements 12
+    3300154: elements 13
+    3300156: elements 14
+    3300158: elements 15
+    3300160: elements 16
+    3300162: elements 17
+    3300164: elements 18
+    3300166: elements 19
+    3300168: elements 2
+    3300170: elements 20
+    3300172: elements 21
+    3300174: elements 22
+    3300176: elements 23
+    3300178: elements 3
+    3300180: elements 4
+    3300182: elements 5
+    3300184: elements 6
+    3300186: elements 7
+    3300188: elements 8
+    3300190: elements 9
+    3300192: glass_front_L
+    3300194: glass_front_L 1
+    3300196: glass_front_L 10
+    3300198: glass_front_L 11
+    3300200: glass_front_L 12
+    3300202: glass_front_L 13
+    3300204: glass_front_L 14
+    3300206: glass_front_L 15
+    3300208: glass_front_L 16
+    3300210: glass_front_L 17
+    3300212: glass_front_L 18
+    3300214: glass_front_L 19
+    3300216: glass_front_L 2
+    3300218: glass_front_L 20
+    3300220: glass_front_L 21
+    3300222: glass_front_L 22
+    3300224: glass_front_L 23
+    3300226: glass_front_L 3
+    3300228: glass_front_L 4
+    3300230: glass_front_L 5
+    3300232: glass_front_L 6
+    3300234: glass_front_L 7
+    3300236: glass_front_L 8
+    3300238: glass_front_L 9
+    3300240: glass_front_R
+    3300242: glass_front_R 1
+    3300244: glass_front_R 10
+    3300246: glass_front_R 11
+    3300248: glass_front_R 12
+    3300250: glass_front_R 13
+    3300252: glass_front_R 14
+    3300254: glass_front_R 15
+    3300256: glass_front_R 16
+    3300258: glass_front_R 17
+    3300260: glass_front_R 18
+    3300262: glass_front_R 19
+    3300264: glass_front_R 2
+    3300266: glass_front_R 20
+    3300268: glass_front_R 21
+    3300270: glass_front_R 22
+    3300272: glass_front_R 23
+    3300274: glass_front_R 3
+    3300276: glass_front_R 4
+    3300278: glass_front_R 5
+    3300280: glass_front_R 6
+    3300282: glass_front_R 7
+    3300284: glass_front_R 8
+    3300286: glass_front_R 9
+    3300288: hood
+    3300290: hood 1
+    3300292: hood 10
+    3300294: hood 11
+    3300296: hood 12
+    3300298: hood 13
+    3300300: hood 14
+    3300302: hood 15
+    3300304: hood 16
+    3300306: hood 17
+    3300308: hood 18
+    3300310: hood 19
+    3300312: hood 2
+    3300314: hood 20
+    3300316: hood 21
+    3300318: hood 22
+    3300320: hood 23
+    3300322: hood 3
+    3300324: hood 4
+    3300326: hood 5
+    3300328: hood 6
+    3300330: hood 7
+    3300332: hood 8
+    3300334: hood 9
+    3300336: spoiler
+    3300338: spoiler 1
+    3300340: spoiler 10
+    3300342: spoiler 11
+    3300344: spoiler 12
+    3300346: spoiler 13
+    3300348: spoiler 14
+    3300350: spoiler 15
+    3300352: spoiler 16
+    3300354: spoiler 17
+    3300356: spoiler 18
+    3300358: spoiler 19
+    3300360: spoiler 2
+    3300362: spoiler 20
+    3300364: spoiler 21
+    3300366: spoiler 22
+    3300368: spoiler 23
+    3300370: spoiler 3
+    3300372: spoiler 4
+    3300374: spoiler 5
+    3300376: spoiler 6
+    3300378: spoiler 7
+    3300380: spoiler 8
+    3300382: spoiler 9
+    3300384: Steering_wheel
+    3300386: Steering_wheel 1
+    3300388: Steering_wheel 10
+    3300390: Steering_wheel 11
+    3300392: Steering_wheel 12
+    3300394: Steering_wheel 13
+    3300396: Steering_wheel 14
+    3300398: Steering_wheel 15
+    3300400: Steering_wheel 16
+    3300402: Steering_wheel 17
+    3300404: Steering_wheel 18
+    3300406: Steering_wheel 19
+    3300408: Steering_wheel 2
+    3300410: Steering_wheel 20
+    3300412: Steering_wheel 21
+    3300414: Steering_wheel 22
+    3300416: Steering_wheel 23
+    3300418: Steering_wheel 3
+    3300420: Steering_wheel 4
+    3300422: Steering_wheel 5
+    3300424: Steering_wheel 6
+    3300426: Steering_wheel 7
+    3300428: Steering_wheel 8
+    3300430: Steering_wheel 9
+    3300432: Tire_Back_L
+    3300434: Tire_Back_L 1
+    3300436: Tire_Back_L 10
+    3300438: Tire_Back_L 11
+    3300440: Tire_Back_L 12
+    3300442: Tire_Back_L 13
+    3300444: Tire_Back_L 14
+    3300446: Tire_Back_L 15
+    3300448: Tire_Back_L 16
+    3300450: Tire_Back_L 17
+    3300452: Tire_Back_L 18
+    3300454: Tire_Back_L 19
+    3300456: Tire_Back_L 2
+    3300458: Tire_Back_L 20
+    3300460: Tire_Back_L 21
+    3300462: Tire_Back_L 22
+    3300464: Tire_Back_L 23
+    3300466: Tire_Back_L 3
+    3300468: Tire_Back_L 4
+    3300470: Tire_Back_L 5
+    3300472: Tire_Back_L 6
+    3300474: Tire_Back_L 7
+    3300476: Tire_Back_L 8
+    3300478: Tire_Back_L 9
+    3300480: Tire_Back_R
+    3300482: Tire_Back_R 1
+    3300484: Tire_Back_R 10
+    3300486: Tire_Back_R 11
+    3300488: Tire_Back_R 12
+    3300490: Tire_Back_R 13
+    3300492: Tire_Back_R 14
+    3300494: Tire_Back_R 15
+    3300496: Tire_Back_R 16
+    3300498: Tire_Back_R 17
+    3300500: Tire_Back_R 18
+    3300502: Tire_Back_R 19
+    3300504: Tire_Back_R 2
+    3300506: Tire_Back_R 20
+    3300508: Tire_Back_R 21
+    3300510: Tire_Back_R 22
+    3300512: Tire_Back_R 23
+    3300514: Tire_Back_R 3
+    3300516: Tire_Back_R 4
+    3300518: Tire_Back_R 5
+    3300520: Tire_Back_R 6
+    3300522: Tire_Back_R 7
+    3300524: Tire_Back_R 8
+    3300526: Tire_Back_R 9
+    3300528: Tire_Front_L
+    3300530: Tire_Front_L 1
+    3300532: Tire_Front_L 10
+    3300534: Tire_Front_L 11
+    3300536: Tire_Front_L 12
+    3300538: Tire_Front_L 13
+    3300540: Tire_Front_L 14
+    3300542: Tire_Front_L 15
+    3300544: Tire_Front_L 16
+    3300546: Tire_Front_L 17
+    3300548: Tire_Front_L 18
+    3300550: Tire_Front_L 19
+    3300552: Tire_Front_L 2
+    3300554: Tire_Front_L 20
+    3300556: Tire_Front_L 21
+    3300558: Tire_Front_L 22
+    3300560: Tire_Front_L 23
+    3300562: Tire_Front_L 3
+    3300564: Tire_Front_L 4
+    3300566: Tire_Front_L 5
+    3300568: Tire_Front_L 6
+    3300570: Tire_Front_L 7
+    3300572: Tire_Front_L 8
+    3300574: Tire_Front_L 9
+    3300576: Tire_Front_R
+    3300578: Tire_Front_R 1
+    3300580: Tire_Front_R 10
+    3300582: Tire_Front_R 11
+    3300584: Tire_Front_R 12
+    3300586: Tire_Front_R 13
+    3300588: Tire_Front_R 14
+    3300590: Tire_Front_R 15
+    3300592: Tire_Front_R 16
+    3300594: Tire_Front_R 17
+    3300596: Tire_Front_R 18
+    3300598: Tire_Front_R 19
+    3300600: Tire_Front_R 2
+    3300602: Tire_Front_R 20
+    3300604: Tire_Front_R 21
+    3300606: Tire_Front_R 22
+    3300608: Tire_Front_R 23
+    3300610: Tire_Front_R 3
+    3300612: Tire_Front_R 4
+    3300614: Tire_Front_R 5
+    3300616: Tire_Front_R 6
+    3300618: Tire_Front_R 7
+    3300620: Tire_Front_R 8
+    3300622: Tire_Front_R 9
+    3300624: Trunk
+    3300626: Trunk 1
+    3300628: Trunk 10
+    3300630: Trunk 11
+    3300632: Trunk 12
+    3300634: Trunk 13
+    3300636: Trunk 14
+    3300638: Trunk 15
+    3300640: Trunk 16
+    3300642: Trunk 17
+    3300644: Trunk 18
+    3300646: Trunk 19
+    3300648: Trunk 2
+    3300650: Trunk 20
+    3300652: Trunk 21
+    3300654: Trunk 22
+    3300656: Trunk 23
+    3300658: Trunk 3
+    3300660: Trunk 4
+    3300662: Trunk 5
+    3300664: Trunk 6
+    3300666: Trunk 7
+    3300668: Trunk 8
+    3300670: Trunk 9
+    4300000: carrosserie
+    4300002: elements
+    4300004: Steering_wheel
+    4300006: hood
+    4300008: Trunk
+    4300010: spoiler
+    4300012: door_front_R
+    4300014: glass_front_R
+    4300016: door_front_L
+    4300018: glass_front_L
+    4300020: Tire_Front_R
+    4300022: Tire_Front_L
+    4300024: Tire_Back_R
+    4300026: Tire_Back_L
+    4300028: carrosserie
+    4300030: elements
+    4300032: Steering_wheel
+    4300034: hood
+    4300036: Trunk
+    4300038: spoiler
+    4300040: door_front_R
+    4300042: glass_front_R
+    4300044: door_front_L
+    4300046: glass_front_L
+    4300048: Tire_Front_R
+    4300050: Tire_Front_L
+    4300052: Tire_Back_R
+    4300054: Tire_Back_L
+    4300056: carrosserie
+    4300058: elements
+    4300060: Steering_wheel
+    4300062: hood
+    4300064: Trunk
+    4300066: spoiler
+    4300068: door_front_R
+    4300070: glass_front_R
+    4300072: door_front_L
+    4300074: glass_front_L
+    4300076: Tire_Front_R
+    4300078: Tire_Front_L
+    4300080: Tire_Back_R
+    4300082: Tire_Back_L
+    4300084: carrosserie
+    4300086: elements
+    4300088: Steering_wheel
+    4300090: hood
+    4300092: Trunk
+    4300094: spoiler
+    4300096: door_front_R
+    4300098: glass_front_R
+    4300100: door_front_L
+    4300102: glass_front_L
+    4300104: Tire_Front_R
+    4300106: Tire_Front_L
+    4300108: Tire_Back_R
+    4300110: Tire_Back_L
+    4300112: carrosserie
+    4300114: elements
+    4300116: Steering_wheel
+    4300118: hood
+    4300120: Trunk
+    4300122: spoiler
+    4300124: door_front_R
+    4300126: glass_front_R
+    4300128: door_front_L
+    4300130: glass_front_L
+    4300132: Tire_Front_R
+    4300134: Tire_Front_L
+    4300136: Tire_Back_R
+    4300138: Tire_Back_L
+    4300140: carrosserie
+    4300142: elements
+    4300144: Steering_wheel
+    4300146: hood
+    4300148: Trunk
+    4300150: spoiler
+    4300152: door_front_R
+    4300154: glass_front_R
+    4300156: door_front_L
+    4300158: glass_front_L
+    4300160: Tire_Front_R
+    4300162: Tire_Front_L
+    4300164: Tire_Back_R
+    4300166: Tire_Back_L
+    4300168: carrosserie
+    4300170: elements
+    4300172: Steering_wheel
+    4300174: hood
+    4300176: Trunk
+    4300178: spoiler
+    4300180: door_front_R
+    4300182: glass_front_R
+    4300184: door_front_L
+    4300186: glass_front_L
+    4300188: Tire_Front_R
+    4300190: Tire_Front_L
+    4300192: Tire_Back_R
+    4300194: Tire_Back_L
+    4300196: carrosserie
+    4300198: elements
+    4300200: Steering_wheel
+    4300202: hood
+    4300204: Trunk
+    4300206: spoiler
+    4300208: door_front_R
+    4300210: glass_front_R
+    4300212: door_front_L
+    4300214: glass_front_L
+    4300216: Tire_Front_R
+    4300218: Tire_Front_L
+    4300220: Tire_Back_R
+    4300222: Tire_Back_L
+    4300224: carrosserie
+    4300226: elements
+    4300228: Steering_wheel
+    4300230: hood
+    4300232: Trunk
+    4300234: spoiler
+    4300236: door_front_R
+    4300238: glass_front_R
+    4300240: door_front_L
+    4300242: glass_front_L
+    4300244: Tire_Front_R
+    4300246: Tire_Front_L
+    4300248: Tire_Back_R
+    4300250: Tire_Back_L
+    4300252: carrosserie
+    4300254: elements
+    4300256: Steering_wheel
+    4300258: hood
+    4300260: Trunk
+    4300262: spoiler
+    4300264: door_front_R
+    4300266: glass_front_R
+    4300268: door_front_L
+    4300270: glass_front_L
+    4300272: Tire_Front_R
+    4300274: Tire_Front_L
+    4300276: Tire_Back_R
+    4300278: Tire_Back_L
+    4300280: carrosserie
+    4300282: elements
+    4300284: Steering_wheel
+    4300286: hood
+    4300288: Trunk
+    4300290: spoiler
+    4300292: door_front_R
+    4300294: glass_front_R
+    4300296: door_front_L
+    4300298: glass_front_L
+    4300300: Tire_Front_R
+    4300302: Tire_Front_L
+    4300304: Tire_Back_R
+    4300306: Tire_Back_L
+    4300308: carrosserie
+    4300310: elements
+    4300312: Steering_wheel
+    4300314: hood
+    4300316: Trunk
+    4300318: spoiler
+    4300320: door_front_R
+    4300322: glass_front_R
+    4300324: door_front_L
+    4300326: glass_front_L
+    4300328: Tire_Front_R
+    4300330: Tire_Front_L
+    4300332: Tire_Back_R
+    4300334: Tire_Back_L
+    4300336: carrosserie
+    4300338: elements
+    4300340: Steering_wheel
+    4300342: hood
+    4300344: Trunk
+    4300346: spoiler
+    4300348: door_front_R
+    4300350: glass_front_R
+    4300352: door_front_L
+    4300354: glass_front_L
+    4300356: Tire_Front_R
+    4300358: Tire_Front_L
+    4300360: Tire_Back_R
+    4300362: Tire_Back_L
+    4300364: carrosserie
+    4300366: elements
+    4300368: Steering_wheel
+    4300370: hood
+    4300372: Trunk
+    4300374: spoiler
+    4300376: door_front_R
+    4300378: glass_front_R
+    4300380: door_front_L
+    4300382: glass_front_L
+    4300384: Tire_Front_R
+    4300386: Tire_Front_L
+    4300388: Tire_Back_R
+    4300390: Tire_Back_L
+    4300392: carrosserie
+    4300394: elements
+    4300396: Steering_wheel
+    4300398: hood
+    4300400: Trunk
+    4300402: spoiler
+    4300404: door_front_R
+    4300406: glass_front_R
+    4300408: door_front_L
+    4300410: glass_front_L
+    4300412: Tire_Front_R
+    4300414: Tire_Front_L
+    4300416: Tire_Back_R
+    4300418: Tire_Back_L
+    4300420: carrosserie
+    4300422: elements
+    4300424: Steering_wheel
+    4300426: hood
+    4300428: Trunk
+    4300430: spoiler
+    4300432: door_front_R
+    4300434: glass_front_R
+    4300436: door_front_L
+    4300438: glass_front_L
+    4300440: Tire_Front_R
+    4300442: Tire_Front_L
+    4300444: Tire_Back_R
+    4300446: Tire_Back_L
+    4300448: carrosserie
+    4300450: elements
+    4300452: Steering_wheel
+    4300454: hood
+    4300456: Trunk
+    4300458: spoiler
+    4300460: door_front_R
+    4300462: glass_front_R
+    4300464: door_front_L
+    4300466: glass_front_L
+    4300468: Tire_Front_R
+    4300470: Tire_Front_L
+    4300472: Tire_Back_R
+    4300474: Tire_Back_L
+    4300476: carrosserie
+    4300478: elements
+    4300480: Steering_wheel
+    4300482: hood
+    4300484: Trunk
+    4300486: spoiler
+    4300488: door_front_R
+    4300490: glass_front_R
+    4300492: door_front_L
+    4300494: glass_front_L
+    4300496: Tire_Front_R
+    4300498: Tire_Front_L
+    4300500: Tire_Back_R
+    4300502: Tire_Back_L
+    4300504: carrosserie
+    4300506: elements
+    4300508: Steering_wheel
+    4300510: hood
+    4300512: Trunk
+    4300514: spoiler
+    4300516: door_front_R
+    4300518: glass_front_R
+    4300520: door_front_L
+    4300522: glass_front_L
+    4300524: Tire_Front_R
+    4300526: Tire_Front_L
+    4300528: Tire_Back_R
+    4300530: Tire_Back_L
+    4300532: carrosserie
+    4300534: elements
+    4300536: Steering_wheel
+    4300538: hood
+    4300540: Trunk
+    4300542: spoiler
+    4300544: door_front_R
+    4300546: glass_front_R
+    4300548: door_front_L
+    4300550: glass_front_L
+    4300552: Tire_Front_R
+    4300554: Tire_Front_L
+    4300556: Tire_Back_R
+    4300558: Tire_Back_L
+    4300560: carrosserie
+    4300562: elements
+    4300564: Steering_wheel
+    4300566: hood
+    4300568: Trunk
+    4300570: spoiler
+    4300572: door_front_R
+    4300574: glass_front_R
+    4300576: door_front_L
+    4300578: glass_front_L
+    4300580: Tire_Front_R
+    4300582: Tire_Front_L
+    4300584: Tire_Back_R
+    4300586: Tire_Back_L
+    4300588: carrosserie
+    4300590: elements
+    4300592: Steering_wheel
+    4300594: hood
+    4300596: Trunk
+    4300598: spoiler
+    4300600: door_front_R
+    4300602: glass_front_R
+    4300604: door_front_L
+    4300606: glass_front_L
+    4300608: Tire_Front_R
+    4300610: Tire_Front_L
+    4300612: Tire_Back_R
+    4300614: Tire_Back_L
+    4300616: carrosserie
+    4300618: elements
+    4300620: Steering_wheel
+    4300622: hood
+    4300624: Trunk
+    4300626: spoiler
+    4300628: door_front_R
+    4300630: glass_front_R
+    4300632: door_front_L
+    4300634: glass_front_L
+    4300636: Tire_Front_R
+    4300638: Tire_Front_L
+    4300640: Tire_Back_R
+    4300642: Tire_Back_L
+    4300644: carrosserie
+    4300646: elements
+    4300648: Steering_wheel
+    4300650: hood
+    4300652: Trunk
+    4300654: spoiler
+    4300656: door_front_R
+    4300658: glass_front_R
+    4300660: door_front_L
+    4300662: glass_front_L
+    4300664: Tire_Front_R
+    4300666: Tire_Front_L
+    4300668: Tire_Back_R
+    4300670: Tire_Back_L
+    7400000: SHxunxi
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SHxunxi
+      takeName: SHxunxi
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Sport_car
+        weight: 1
+      - path: Sport_car/Animatable
+        weight: 1
+      - path: Sport_car/Animatable/door_front_L
+        weight: 1
+      - path: Sport_car/Animatable/door_front_L/glass_front_L
+        weight: 1
+      - path: Sport_car/Animatable/door_front_R
+        weight: 1
+      - path: Sport_car/Animatable/door_front_R/glass_front_R
+        weight: 1
+      - path: Sport_car/Animatable/hood
+        weight: 1
+      - path: Sport_car/Animatable/Steering_wheel
+        weight: 1
+      - path: Sport_car/Animatable/Trunk
+        weight: 1
+      - path: Sport_car/Animatable/Trunk/spoiler
+        weight: 1
+      - path: Sport_car/carrosserie
+        weight: 1
+      - path: Sport_car/carrosserie/elements
+        weight: 1
+      - path: Sport_car/Tires
+        weight: 1
+      - path: Sport_car/Tires/Tire_Back_L
+        weight: 1
+      - path: Sport_car/Tires/Tire_Back_R
+        weight: 1
+      - path: Sport_car/Tires/Tire_Front_L
+        weight: 1
+      - path: Sport_car/Tires/Tire_Front_R
+        weight: 1
+      - path: Sport_car1
+        weight: 1
+      - path: Sport_car1/Animatable 1
+        weight: 1
+      - path: Sport_car1/Animatable 1/door_front_L 1
+        weight: 1
+      - path: Sport_car1/Animatable 1/door_front_L 1/glass_front_L 1
+        weight: 1
+      - path: Sport_car1/Animatable 1/door_front_R 1
+        weight: 1
+      - path: Sport_car1/Animatable 1/door_front_R 1/glass_front_R 1
+        weight: 1
+      - path: Sport_car1/Animatable 1/hood 1
+        weight: 1
+      - path: Sport_car1/Animatable 1/Steering_wheel 1
+        weight: 1
+      - path: Sport_car1/Animatable 1/Trunk 1
+        weight: 1
+      - path: Sport_car1/Animatable 1/Trunk 1/spoiler 1
+        weight: 1
+      - path: Sport_car1/carrosserie 1
+        weight: 1
+      - path: Sport_car1/carrosserie 1/elements 1
+        weight: 1
+      - path: Sport_car1/Tires 1
+        weight: 1
+      - path: Sport_car1/Tires 1/Tire_Back_L 1
+        weight: 1
+      - path: Sport_car1/Tires 1/Tire_Back_R 1
+        weight: 1
+      - path: Sport_car1/Tires 1/Tire_Front_L 1
+        weight: 1
+      - path: Sport_car1/Tires 1/Tire_Front_R 1
+        weight: 1
+      - path: Sport_car2
+        weight: 1
+      - path: Sport_car2/Animatable 12
+        weight: 1
+      - path: Sport_car2/Animatable 12/door_front_L 12
+        weight: 1
+      - path: Sport_car2/Animatable 12/door_front_L 12/glass_front_L 12
+        weight: 1
+      - path: Sport_car2/Animatable 12/door_front_R 12
+        weight: 1
+      - path: Sport_car2/Animatable 12/door_front_R 12/glass_front_R 12
+        weight: 1
+      - path: Sport_car2/Animatable 12/hood 12
+        weight: 1
+      - path: Sport_car2/Animatable 12/Steering_wheel 12
+        weight: 1
+      - path: Sport_car2/Animatable 12/Trunk 12
+        weight: 1
+      - path: Sport_car2/Animatable 12/Trunk 12/spoiler 12
+        weight: 1
+      - path: Sport_car2/carrosserie 12
+        weight: 1
+      - path: Sport_car2/carrosserie 12/elements 12
+        weight: 1
+      - path: Sport_car2/Tires 12
+        weight: 1
+      - path: Sport_car2/Tires 12/Tire_Back_L 12
+        weight: 1
+      - path: Sport_car2/Tires 12/Tire_Back_R 12
+        weight: 1
+      - path: Sport_car2/Tires 12/Tire_Front_L 12
+        weight: 1
+      - path: Sport_car2/Tires 12/Tire_Front_R 12
+        weight: 1
+      - path: Sport_car3
+        weight: 1
+      - path: Sport_car3/Animatable 17
+        weight: 1
+      - path: Sport_car3/Animatable 17/door_front_L 17
+        weight: 1
+      - path: Sport_car3/Animatable 17/door_front_L 17/glass_front_L 17
+        weight: 1
+      - path: Sport_car3/Animatable 17/door_front_R 17
+        weight: 1
+      - path: Sport_car3/Animatable 17/door_front_R 17/glass_front_R 17
+        weight: 1
+      - path: Sport_car3/Animatable 17/hood 17
+        weight: 1
+      - path: Sport_car3/Animatable 17/Steering_wheel 17
+        weight: 1
+      - path: Sport_car3/Animatable 17/Trunk 17
+        weight: 1
+      - path: Sport_car3/Animatable 17/Trunk 17/spoiler 17
+        weight: 1
+      - path: Sport_car3/carrosserie 17
+        weight: 1
+      - path: Sport_car3/carrosserie 17/elements 17
+        weight: 1
+      - path: Sport_car3/Tires 17
+        weight: 1
+      - path: Sport_car3/Tires 17/Tire_Back_L 17
+        weight: 1
+      - path: Sport_car3/Tires 17/Tire_Back_R 17
+        weight: 1
+      - path: Sport_car3/Tires 17/Tire_Front_L 17
+        weight: 1
+      - path: Sport_car3/Tires 17/Tire_Front_R 17
+        weight: 1
+      - path: Sport_car4
+        weight: 1
+      - path: Sport_car4/Animatable 18
+        weight: 1
+      - path: Sport_car4/Animatable 18/door_front_L 18
+        weight: 1
+      - path: Sport_car4/Animatable 18/door_front_L 18/glass_front_L 18
+        weight: 1
+      - path: Sport_car4/Animatable 18/door_front_R 18
+        weight: 1
+      - path: Sport_car4/Animatable 18/door_front_R 18/glass_front_R 18
+        weight: 1
+      - path: Sport_car4/Animatable 18/hood 18
+        weight: 1
+      - path: Sport_car4/Animatable 18/Steering_wheel 18
+        weight: 1
+      - path: Sport_car4/Animatable 18/Trunk 18
+        weight: 1
+      - path: Sport_car4/Animatable 18/Trunk 18/spoiler 18
+        weight: 1
+      - path: Sport_car4/carrosserie 18
+        weight: 1
+      - path: Sport_car4/carrosserie 18/elements 18
+        weight: 1
+      - path: Sport_car4/Tires 18
+        weight: 1
+      - path: Sport_car4/Tires 18/Tire_Back_L 18
+        weight: 1
+      - path: Sport_car4/Tires 18/Tire_Back_R 18
+        weight: 1
+      - path: Sport_car4/Tires 18/Tire_Front_L 18
+        weight: 1
+      - path: Sport_car4/Tires 18/Tire_Front_R 18
+        weight: 1
+      - path: Sport_car5
+        weight: 1
+      - path: Sport_car5/Animatable 19
+        weight: 1
+      - path: Sport_car5/Animatable 19/door_front_L 19
+        weight: 1
+      - path: Sport_car5/Animatable 19/door_front_L 19/glass_front_L 19
+        weight: 1
+      - path: Sport_car5/Animatable 19/door_front_R 19
+        weight: 1
+      - path: Sport_car5/Animatable 19/door_front_R 19/glass_front_R 19
+        weight: 1
+      - path: Sport_car5/Animatable 19/hood 19
+        weight: 1
+      - path: Sport_car5/Animatable 19/Steering_wheel 19
+        weight: 1
+      - path: Sport_car5/Animatable 19/Trunk 19
+        weight: 1
+      - path: Sport_car5/Animatable 19/Trunk 19/spoiler 19
+        weight: 1
+      - path: Sport_car5/carrosserie 19
+        weight: 1
+      - path: Sport_car5/carrosserie 19/elements 19
+        weight: 1
+      - path: Sport_car5/Tires 19
+        weight: 1
+      - path: Sport_car5/Tires 19/Tire_Back_L 19
+        weight: 1
+      - path: Sport_car5/Tires 19/Tire_Back_R 19
+        weight: 1
+      - path: Sport_car5/Tires 19/Tire_Front_L 19
+        weight: 1
+      - path: Sport_car5/Tires 19/Tire_Front_R 19
+        weight: 1
+      - path: Sport_car6
+        weight: 1
+      - path: Sport_car6/Animatable 20
+        weight: 1
+      - path: Sport_car6/Animatable 20/door_front_L 20
+        weight: 1
+      - path: Sport_car6/Animatable 20/door_front_L 20/glass_front_L 20
+        weight: 1
+      - path: Sport_car6/Animatable 20/door_front_R 20
+        weight: 1
+      - path: Sport_car6/Animatable 20/door_front_R 20/glass_front_R 20
+        weight: 1
+      - path: Sport_car6/Animatable 20/hood 20
+        weight: 1
+      - path: Sport_car6/Animatable 20/Steering_wheel 20
+        weight: 1
+      - path: Sport_car6/Animatable 20/Trunk 20
+        weight: 1
+      - path: Sport_car6/Animatable 20/Trunk 20/spoiler 20
+        weight: 1
+      - path: Sport_car6/carrosserie 20
+        weight: 1
+      - path: Sport_car6/carrosserie 20/elements 20
+        weight: 1
+      - path: Sport_car6/Tires 20
+        weight: 1
+      - path: Sport_car6/Tires 20/Tire_Back_L 20
+        weight: 1
+      - path: Sport_car6/Tires 20/Tire_Back_R 20
+        weight: 1
+      - path: Sport_car6/Tires 20/Tire_Front_L 20
+        weight: 1
+      - path: Sport_car6/Tires 20/Tire_Front_R 20
+        weight: 1
+      - path: Sport_car7
+        weight: 1
+      - path: Sport_car7/Animatable 21
+        weight: 1
+      - path: Sport_car7/Animatable 21/door_front_L 21
+        weight: 1
+      - path: Sport_car7/Animatable 21/door_front_L 21/glass_front_L 21
+        weight: 1
+      - path: Sport_car7/Animatable 21/door_front_R 21
+        weight: 1
+      - path: Sport_car7/Animatable 21/door_front_R 21/glass_front_R 21
+        weight: 1
+      - path: Sport_car7/Animatable 21/hood 21
+        weight: 1
+      - path: Sport_car7/Animatable 21/Steering_wheel 21
+        weight: 1
+      - path: Sport_car7/Animatable 21/Trunk 21
+        weight: 1
+      - path: Sport_car7/Animatable 21/Trunk 21/spoiler 21
+        weight: 1
+      - path: Sport_car7/carrosserie 21
+        weight: 1
+      - path: Sport_car7/carrosserie 21/elements 21
+        weight: 1
+      - path: Sport_car7/Tires 21
+        weight: 1
+      - path: Sport_car7/Tires 21/Tire_Back_L 21
+        weight: 1
+      - path: Sport_car7/Tires 21/Tire_Back_R 21
+        weight: 1
+      - path: Sport_car7/Tires 21/Tire_Front_L 21
+        weight: 1
+      - path: Sport_car7/Tires 21/Tire_Front_R 21
+        weight: 1
+      - path: Sport_car8
+        weight: 1
+      - path: Sport_car8/Animatable 22
+        weight: 1
+      - path: Sport_car8/Animatable 22/door_front_L 22
+        weight: 1
+      - path: Sport_car8/Animatable 22/door_front_L 22/glass_front_L 22
+        weight: 1
+      - path: Sport_car8/Animatable 22/door_front_R 22
+        weight: 1
+      - path: Sport_car8/Animatable 22/door_front_R 22/glass_front_R 22
+        weight: 1
+      - path: Sport_car8/Animatable 22/hood 22
+        weight: 1
+      - path: Sport_car8/Animatable 22/Steering_wheel 22
+        weight: 1
+      - path: Sport_car8/Animatable 22/Trunk 22
+        weight: 1
+      - path: Sport_car8/Animatable 22/Trunk 22/spoiler 22
+        weight: 1
+      - path: Sport_car8/carrosserie 22
+        weight: 1
+      - path: Sport_car8/carrosserie 22/elements 22
+        weight: 1
+      - path: Sport_car8/Tires 22
+        weight: 1
+      - path: Sport_car8/Tires 22/Tire_Back_L 22
+        weight: 1
+      - path: Sport_car8/Tires 22/Tire_Back_R 22
+        weight: 1
+      - path: Sport_car8/Tires 22/Tire_Front_L 22
+        weight: 1
+      - path: Sport_car8/Tires 22/Tire_Front_R 22
+        weight: 1
+      - path: Sport_car9
+        weight: 1
+      - path: Sport_car9/Animatable 23
+        weight: 1
+      - path: Sport_car9/Animatable 23/door_front_L 23
+        weight: 1
+      - path: Sport_car9/Animatable 23/door_front_L 23/glass_front_L 23
+        weight: 1
+      - path: Sport_car9/Animatable 23/door_front_R 23
+        weight: 1
+      - path: Sport_car9/Animatable 23/door_front_R 23/glass_front_R 23
+        weight: 1
+      - path: Sport_car9/Animatable 23/hood 23
+        weight: 1
+      - path: Sport_car9/Animatable 23/Steering_wheel 23
+        weight: 1
+      - path: Sport_car9/Animatable 23/Trunk 23
+        weight: 1
+      - path: Sport_car9/Animatable 23/Trunk 23/spoiler 23
+        weight: 1
+      - path: Sport_car9/carrosserie 23
+        weight: 1
+      - path: Sport_car9/carrosserie 23/elements 23
+        weight: 1
+      - path: Sport_car9/Tires 23
+        weight: 1
+      - path: Sport_car9/Tires 23/Tire_Back_L 23
+        weight: 1
+      - path: Sport_car9/Tires 23/Tire_Back_R 23
+        weight: 1
+      - path: Sport_car9/Tires 23/Tire_Front_L 23
+        weight: 1
+      - path: Sport_car9/Tires 23/Tire_Front_R 23
+        weight: 1
+      - path: Sport_car10
+        weight: 1
+      - path: Sport_car10/Animatable 2
+        weight: 1
+      - path: Sport_car10/Animatable 2/door_front_L 2
+        weight: 1
+      - path: Sport_car10/Animatable 2/door_front_L 2/glass_front_L 2
+        weight: 1
+      - path: Sport_car10/Animatable 2/door_front_R 2
+        weight: 1
+      - path: Sport_car10/Animatable 2/door_front_R 2/glass_front_R 2
+        weight: 1
+      - path: Sport_car10/Animatable 2/hood 2
+        weight: 1
+      - path: Sport_car10/Animatable 2/Steering_wheel 2
+        weight: 1
+      - path: Sport_car10/Animatable 2/Trunk 2
+        weight: 1
+      - path: Sport_car10/Animatable 2/Trunk 2/spoiler 2
+        weight: 1
+      - path: Sport_car10/carrosserie 2
+        weight: 1
+      - path: Sport_car10/carrosserie 2/elements 2
+        weight: 1
+      - path: Sport_car10/Tires 2
+        weight: 1
+      - path: Sport_car10/Tires 2/Tire_Back_L 2
+        weight: 1
+      - path: Sport_car10/Tires 2/Tire_Back_R 2
+        weight: 1
+      - path: Sport_car10/Tires 2/Tire_Front_L 2
+        weight: 1
+      - path: Sport_car10/Tires 2/Tire_Front_R 2
+        weight: 1
+      - path: Sport_car11
+        weight: 1
+      - path: Sport_car11/Animatable 3
+        weight: 1
+      - path: Sport_car11/Animatable 3/door_front_L 3
+        weight: 1
+      - path: Sport_car11/Animatable 3/door_front_L 3/glass_front_L 3
+        weight: 1
+      - path: Sport_car11/Animatable 3/door_front_R 3
+        weight: 1
+      - path: Sport_car11/Animatable 3/door_front_R 3/glass_front_R 3
+        weight: 1
+      - path: Sport_car11/Animatable 3/hood 3
+        weight: 1
+      - path: Sport_car11/Animatable 3/Steering_wheel 3
+        weight: 1
+      - path: Sport_car11/Animatable 3/Trunk 3
+        weight: 1
+      - path: Sport_car11/Animatable 3/Trunk 3/spoiler 3
+        weight: 1
+      - path: Sport_car11/carrosserie 3
+        weight: 1
+      - path: Sport_car11/carrosserie 3/elements 3
+        weight: 1
+      - path: Sport_car11/Tires 3
+        weight: 1
+      - path: Sport_car11/Tires 3/Tire_Back_L 3
+        weight: 1
+      - path: Sport_car11/Tires 3/Tire_Back_R 3
+        weight: 1
+      - path: Sport_car11/Tires 3/Tire_Front_L 3
+        weight: 1
+      - path: Sport_car11/Tires 3/Tire_Front_R 3
+        weight: 1
+      - path: Sport_car12
+        weight: 1
+      - path: Sport_car12/Animatable 4
+        weight: 1
+      - path: Sport_car12/Animatable 4/door_front_L 4
+        weight: 1
+      - path: Sport_car12/Animatable 4/door_front_L 4/glass_front_L 4
+        weight: 1
+      - path: Sport_car12/Animatable 4/door_front_R 4
+        weight: 1
+      - path: Sport_car12/Animatable 4/door_front_R 4/glass_front_R 4
+        weight: 1
+      - path: Sport_car12/Animatable 4/hood 4
+        weight: 1
+      - path: Sport_car12/Animatable 4/Steering_wheel 4
+        weight: 1
+      - path: Sport_car12/Animatable 4/Trunk 4
+        weight: 1
+      - path: Sport_car12/Animatable 4/Trunk 4/spoiler 4
+        weight: 1
+      - path: Sport_car12/carrosserie 4
+        weight: 1
+      - path: Sport_car12/carrosserie 4/elements 4
+        weight: 1
+      - path: Sport_car12/Tires 4
+        weight: 1
+      - path: Sport_car12/Tires 4/Tire_Back_L 4
+        weight: 1
+      - path: Sport_car12/Tires 4/Tire_Back_R 4
+        weight: 1
+      - path: Sport_car12/Tires 4/Tire_Front_L 4
+        weight: 1
+      - path: Sport_car12/Tires 4/Tire_Front_R 4
+        weight: 1
+      - path: Sport_car13
+        weight: 1
+      - path: Sport_car13/Animatable 5
+        weight: 1
+      - path: Sport_car13/Animatable 5/door_front_L 5
+        weight: 1
+      - path: Sport_car13/Animatable 5/door_front_L 5/glass_front_L 5
+        weight: 1
+      - path: Sport_car13/Animatable 5/door_front_R 5
+        weight: 1
+      - path: Sport_car13/Animatable 5/door_front_R 5/glass_front_R 5
+        weight: 1
+      - path: Sport_car13/Animatable 5/hood 5
+        weight: 1
+      - path: Sport_car13/Animatable 5/Steering_wheel 5
+        weight: 1
+      - path: Sport_car13/Animatable 5/Trunk 5
+        weight: 1
+      - path: Sport_car13/Animatable 5/Trunk 5/spoiler 5
+        weight: 1
+      - path: Sport_car13/carrosserie 5
+        weight: 1
+      - path: Sport_car13/carrosserie 5/elements 5
+        weight: 1
+      - path: Sport_car13/Tires 5
+        weight: 1
+      - path: Sport_car13/Tires 5/Tire_Back_L 5
+        weight: 1
+      - path: Sport_car13/Tires 5/Tire_Back_R 5
+        weight: 1
+      - path: Sport_car13/Tires 5/Tire_Front_L 5
+        weight: 1
+      - path: Sport_car13/Tires 5/Tire_Front_R 5
+        weight: 1
+      - path: Sport_car14
+        weight: 1
+      - path: Sport_car14/Animatable 6
+        weight: 1
+      - path: Sport_car14/Animatable 6/door_front_L 6
+        weight: 1
+      - path: Sport_car14/Animatable 6/door_front_L 6/glass_front_L 6
+        weight: 1
+      - path: Sport_car14/Animatable 6/door_front_R 6
+        weight: 1
+      - path: Sport_car14/Animatable 6/door_front_R 6/glass_front_R 6
+        weight: 1
+      - path: Sport_car14/Animatable 6/hood 6
+        weight: 1
+      - path: Sport_car14/Animatable 6/Steering_wheel 6
+        weight: 1
+      - path: Sport_car14/Animatable 6/Trunk 6
+        weight: 1
+      - path: Sport_car14/Animatable 6/Trunk 6/spoiler 6
+        weight: 1
+      - path: Sport_car14/carrosserie 6
+        weight: 1
+      - path: Sport_car14/carrosserie 6/elements 6
+        weight: 1
+      - path: Sport_car14/Tires 6
+        weight: 1
+      - path: Sport_car14/Tires 6/Tire_Back_L 6
+        weight: 1
+      - path: Sport_car14/Tires 6/Tire_Back_R 6
+        weight: 1
+      - path: Sport_car14/Tires 6/Tire_Front_L 6
+        weight: 1
+      - path: Sport_car14/Tires 6/Tire_Front_R 6
+        weight: 1
+      - path: Sport_car15
+        weight: 1
+      - path: Sport_car15/Animatable 7
+        weight: 1
+      - path: Sport_car15/Animatable 7/door_front_L 7
+        weight: 1
+      - path: Sport_car15/Animatable 7/door_front_L 7/glass_front_L 7
+        weight: 1
+      - path: Sport_car15/Animatable 7/door_front_R 7
+        weight: 1
+      - path: Sport_car15/Animatable 7/door_front_R 7/glass_front_R 7
+        weight: 1
+      - path: Sport_car15/Animatable 7/hood 7
+        weight: 1
+      - path: Sport_car15/Animatable 7/Steering_wheel 7
+        weight: 1
+      - path: Sport_car15/Animatable 7/Trunk 7
+        weight: 1
+      - path: Sport_car15/Animatable 7/Trunk 7/spoiler 7
+        weight: 1
+      - path: Sport_car15/carrosserie 7
+        weight: 1
+      - path: Sport_car15/carrosserie 7/elements 7
+        weight: 1
+      - path: Sport_car15/Tires 7
+        weight: 1
+      - path: Sport_car15/Tires 7/Tire_Back_L 7
+        weight: 1
+      - path: Sport_car15/Tires 7/Tire_Back_R 7
+        weight: 1
+      - path: Sport_car15/Tires 7/Tire_Front_L 7
+        weight: 1
+      - path: Sport_car15/Tires 7/Tire_Front_R 7
+        weight: 1
+      - path: Sport_car16
+        weight: 1
+      - path: Sport_car16/Animatable 8
+        weight: 1
+      - path: Sport_car16/Animatable 8/door_front_L 8
+        weight: 1
+      - path: Sport_car16/Animatable 8/door_front_L 8/glass_front_L 8
+        weight: 1
+      - path: Sport_car16/Animatable 8/door_front_R 8
+        weight: 1
+      - path: Sport_car16/Animatable 8/door_front_R 8/glass_front_R 8
+        weight: 1
+      - path: Sport_car16/Animatable 8/hood 8
+        weight: 1
+      - path: Sport_car16/Animatable 8/Steering_wheel 8
+        weight: 1
+      - path: Sport_car16/Animatable 8/Trunk 8
+        weight: 1
+      - path: Sport_car16/Animatable 8/Trunk 8/spoiler 8
+        weight: 1
+      - path: Sport_car16/carrosserie 8
+        weight: 1
+      - path: Sport_car16/carrosserie 8/elements 8
+        weight: 1
+      - path: Sport_car16/Tires 8
+        weight: 1
+      - path: Sport_car16/Tires 8/Tire_Back_L 8
+        weight: 1
+      - path: Sport_car16/Tires 8/Tire_Back_R 8
+        weight: 1
+      - path: Sport_car16/Tires 8/Tire_Front_L 8
+        weight: 1
+      - path: Sport_car16/Tires 8/Tire_Front_R 8
+        weight: 1
+      - path: Sport_car17
+        weight: 1
+      - path: Sport_car17/Animatable 9
+        weight: 1
+      - path: Sport_car17/Animatable 9/door_front_L 9
+        weight: 1
+      - path: Sport_car17/Animatable 9/door_front_L 9/glass_front_L 9
+        weight: 1
+      - path: Sport_car17/Animatable 9/door_front_R 9
+        weight: 1
+      - path: Sport_car17/Animatable 9/door_front_R 9/glass_front_R 9
+        weight: 1
+      - path: Sport_car17/Animatable 9/hood 9
+        weight: 1
+      - path: Sport_car17/Animatable 9/Steering_wheel 9
+        weight: 1
+      - path: Sport_car17/Animatable 9/Trunk 9
+        weight: 1
+      - path: Sport_car17/Animatable 9/Trunk 9/spoiler 9
+        weight: 1
+      - path: Sport_car17/carrosserie 9
+        weight: 1
+      - path: Sport_car17/carrosserie 9/elements 9
+        weight: 1
+      - path: Sport_car17/Tires 9
+        weight: 1
+      - path: Sport_car17/Tires 9/Tire_Back_L 9
+        weight: 1
+      - path: Sport_car17/Tires 9/Tire_Back_R 9
+        weight: 1
+      - path: Sport_car17/Tires 9/Tire_Front_L 9
+        weight: 1
+      - path: Sport_car17/Tires 9/Tire_Front_R 9
+        weight: 1
+      - path: Sport_car18
+        weight: 1
+      - path: Sport_car18/Animatable 10
+        weight: 1
+      - path: Sport_car18/Animatable 10/door_front_L 10
+        weight: 1
+      - path: Sport_car18/Animatable 10/door_front_L 10/glass_front_L 10
+        weight: 1
+      - path: Sport_car18/Animatable 10/door_front_R 10
+        weight: 1
+      - path: Sport_car18/Animatable 10/door_front_R 10/glass_front_R 10
+        weight: 1
+      - path: Sport_car18/Animatable 10/hood 10
+        weight: 1
+      - path: Sport_car18/Animatable 10/Steering_wheel 10
+        weight: 1
+      - path: Sport_car18/Animatable 10/Trunk 10
+        weight: 1
+      - path: Sport_car18/Animatable 10/Trunk 10/spoiler 10
+        weight: 1
+      - path: Sport_car18/carrosserie 10
+        weight: 1
+      - path: Sport_car18/carrosserie 10/elements 10
+        weight: 1
+      - path: Sport_car18/Tires 10
+        weight: 1
+      - path: Sport_car18/Tires 10/Tire_Back_L 10
+        weight: 1
+      - path: Sport_car18/Tires 10/Tire_Back_R 10
+        weight: 1
+      - path: Sport_car18/Tires 10/Tire_Front_L 10
+        weight: 1
+      - path: Sport_car18/Tires 10/Tire_Front_R 10
+        weight: 1
+      - path: Sport_car19
+        weight: 1
+      - path: Sport_car19/Animatable 11
+        weight: 1
+      - path: Sport_car19/Animatable 11/door_front_L 11
+        weight: 1
+      - path: Sport_car19/Animatable 11/door_front_L 11/glass_front_L 11
+        weight: 1
+      - path: Sport_car19/Animatable 11/door_front_R 11
+        weight: 1
+      - path: Sport_car19/Animatable 11/door_front_R 11/glass_front_R 11
+        weight: 1
+      - path: Sport_car19/Animatable 11/hood 11
+        weight: 1
+      - path: Sport_car19/Animatable 11/Steering_wheel 11
+        weight: 1
+      - path: Sport_car19/Animatable 11/Trunk 11
+        weight: 1
+      - path: Sport_car19/Animatable 11/Trunk 11/spoiler 11
+        weight: 1
+      - path: Sport_car19/carrosserie 11
+        weight: 1
+      - path: Sport_car19/carrosserie 11/elements 11
+        weight: 1
+      - path: Sport_car19/Tires 11
+        weight: 1
+      - path: Sport_car19/Tires 11/Tire_Back_L 11
+        weight: 1
+      - path: Sport_car19/Tires 11/Tire_Back_R 11
+        weight: 1
+      - path: Sport_car19/Tires 11/Tire_Front_L 11
+        weight: 1
+      - path: Sport_car19/Tires 11/Tire_Front_R 11
+        weight: 1
+      - path: Sport_car20
+        weight: 1
+      - path: Sport_car20/Animatable 13
+        weight: 1
+      - path: Sport_car20/Animatable 13/door_front_L 13
+        weight: 1
+      - path: Sport_car20/Animatable 13/door_front_L 13/glass_front_L 13
+        weight: 1
+      - path: Sport_car20/Animatable 13/door_front_R 13
+        weight: 1
+      - path: Sport_car20/Animatable 13/door_front_R 13/glass_front_R 13
+        weight: 1
+      - path: Sport_car20/Animatable 13/hood 13
+        weight: 1
+      - path: Sport_car20/Animatable 13/Steering_wheel 13
+        weight: 1
+      - path: Sport_car20/Animatable 13/Trunk 13
+        weight: 1
+      - path: Sport_car20/Animatable 13/Trunk 13/spoiler 13
+        weight: 1
+      - path: Sport_car20/carrosserie 13
+        weight: 1
+      - path: Sport_car20/carrosserie 13/elements 13
+        weight: 1
+      - path: Sport_car20/Tires 13
+        weight: 1
+      - path: Sport_car20/Tires 13/Tire_Back_L 13
+        weight: 1
+      - path: Sport_car20/Tires 13/Tire_Back_R 13
+        weight: 1
+      - path: Sport_car20/Tires 13/Tire_Front_L 13
+        weight: 1
+      - path: Sport_car20/Tires 13/Tire_Front_R 13
+        weight: 1
+      - path: Sport_car21
+        weight: 1
+      - path: Sport_car21/Animatable 14
+        weight: 1
+      - path: Sport_car21/Animatable 14/door_front_L 14
+        weight: 1
+      - path: Sport_car21/Animatable 14/door_front_L 14/glass_front_L 14
+        weight: 1
+      - path: Sport_car21/Animatable 14/door_front_R 14
+        weight: 1
+      - path: Sport_car21/Animatable 14/door_front_R 14/glass_front_R 14
+        weight: 1
+      - path: Sport_car21/Animatable 14/hood 14
+        weight: 1
+      - path: Sport_car21/Animatable 14/Steering_wheel 14
+        weight: 1
+      - path: Sport_car21/Animatable 14/Trunk 14
+        weight: 1
+      - path: Sport_car21/Animatable 14/Trunk 14/spoiler 14
+        weight: 1
+      - path: Sport_car21/carrosserie 14
+        weight: 1
+      - path: Sport_car21/carrosserie 14/elements 14
+        weight: 1
+      - path: Sport_car21/Tires 14
+        weight: 1
+      - path: Sport_car21/Tires 14/Tire_Back_L 14
+        weight: 1
+      - path: Sport_car21/Tires 14/Tire_Back_R 14
+        weight: 1
+      - path: Sport_car21/Tires 14/Tire_Front_L 14
+        weight: 1
+      - path: Sport_car21/Tires 14/Tire_Front_R 14
+        weight: 1
+      - path: Sport_car22
+        weight: 1
+      - path: Sport_car22/Animatable 15
+        weight: 1
+      - path: Sport_car22/Animatable 15/door_front_L 15
+        weight: 1
+      - path: Sport_car22/Animatable 15/door_front_L 15/glass_front_L 15
+        weight: 1
+      - path: Sport_car22/Animatable 15/door_front_R 15
+        weight: 1
+      - path: Sport_car22/Animatable 15/door_front_R 15/glass_front_R 15
+        weight: 1
+      - path: Sport_car22/Animatable 15/hood 15
+        weight: 1
+      - path: Sport_car22/Animatable 15/Steering_wheel 15
+        weight: 1
+      - path: Sport_car22/Animatable 15/Trunk 15
+        weight: 1
+      - path: Sport_car22/Animatable 15/Trunk 15/spoiler 15
+        weight: 1
+      - path: Sport_car22/carrosserie 15
+        weight: 1
+      - path: Sport_car22/carrosserie 15/elements 15
+        weight: 1
+      - path: Sport_car22/Tires 15
+        weight: 1
+      - path: Sport_car22/Tires 15/Tire_Back_L 15
+        weight: 1
+      - path: Sport_car22/Tires 15/Tire_Back_R 15
+        weight: 1
+      - path: Sport_car22/Tires 15/Tire_Front_L 15
+        weight: 1
+      - path: Sport_car22/Tires 15/Tire_Front_R 15
+        weight: 1
+      - path: Sport_car23
+        weight: 1
+      - path: Sport_car23/Animatable 16
+        weight: 1
+      - path: Sport_car23/Animatable 16/door_front_L 16
+        weight: 1
+      - path: Sport_car23/Animatable 16/door_front_L 16/glass_front_L 16
+        weight: 1
+      - path: Sport_car23/Animatable 16/door_front_R 16
+        weight: 1
+      - path: Sport_car23/Animatable 16/door_front_R 16/glass_front_R 16
+        weight: 1
+      - path: Sport_car23/Animatable 16/hood 16
+        weight: 1
+      - path: Sport_car23/Animatable 16/Steering_wheel 16
+        weight: 1
+      - path: Sport_car23/Animatable 16/Trunk 16
+        weight: 1
+      - path: Sport_car23/Animatable 16/Trunk 16/spoiler 16
+        weight: 1
+      - path: Sport_car23/carrosserie 16
+        weight: 1
+      - path: Sport_car23/carrosserie 16/elements 16
+        weight: 1
+      - path: Sport_car23/Tires 16
+        weight: 1
+      - path: Sport_car23/Tires 16/Tire_Back_L 16
+        weight: 1
+      - path: Sport_car23/Tires 16/Tire_Back_R 16
+        weight: 1
+      - path: Sport_car23/Tires 16/Tire_Front_L 16
+        weight: 1
+      - path: Sport_car23/Tires 16/Tire_Front_R 16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3653 @@
+fileFormatVersion: 2
+guid: b0e4cbdcd6031f74998e4452d2b03b07
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Amygdala_L
+    100002: Amygdala_R
+    100004: Appendix
+    100006: Arm_L
+    100008: Arm_R
+    100010: Autonomic_Nervous_Sys
+    100012: Basal_Ganglia
+    100014: Bladder
+    100016: Body
+    100018: Body_MeshPart0
+    100020: Body_MeshPart1
+    100022: Brain
+    100024: Brain_Inner1
+    100026: C1
+    100028: C2
+    100030: C3
+    100032: C4
+    100034: C5
+    100036: C6
+    100038: C7
+    100040: Cardiovascular
+    100042: Cardiovascular 1
+    100044: Cerebellum
+    100046: Cerebrum_Color_L1
+    100048: Cerebrum_Color_L1_MeshPart0
+    100050: Cerebrum_Color_L1_MeshPart1
+    100052: Cerebrum_Color_R1
+    100054: Cerebrum_Color_R1_MeshPart0
+    100056: Cerebrum_Color_R1_MeshPart1
+    100058: Cervical_Nerves_L1
+    100060: Cervical_Nerves_R1
+    100062: Clavicle_L
+    100064: Clavicle_R
+    100066: Coccygeal_Nerve_L
+    100068: Coccygeal_Nerve_R
+    100070: Colon1
+    100072: Copus_L
+    100074: Copus_R
+    100076: Costal_Cartilages
+    100078: Cranial_Nerves_L
+    100080: Cranial_Nerves_R
+    100082: Diaphram1
+    100084: Digestive1
+    100086: Digestive_Sys
+    100088: Disc01
+    100090: Disc02
+    100092: Disc03
+    100094: Disc04
+    100096: Disc05
+    100098: Disc06
+    100100: Disc07
+    100102: Disc08
+    100104: Disc09
+    100106: Disc10
+    100108: Disc11
+    100110: Disc12
+    100112: Disc13
+    100114: Disc14
+    100116: Disc15
+    100118: Disc16
+    100120: Disc17
+    100122: Disc18
+    100124: Disc19
+    100126: Disc20
+    100128: Disc21
+    100130: Disc22
+    100132: Disc23
+    100134: Eyes
+    100136: Falciform_ligament
+    100138: femur_L
+    100140: femur_R
+    100142: fibula_L
+    100144: fibula_R1
+    100146: Foot_L1
+    100148: Foot_L10
+    100150: Foot_L11
+    100152: Foot_L12
+    100154: Foot_L13
+    100156: Foot_L14
+    100158: Foot_L15
+    100160: Foot_L16
+    100162: Foot_L17
+    100164: Foot_L18
+    100166: Foot_L19
+    100168: Foot_L2
+    100170: Foot_L20
+    100172: Foot_L21
+    100174: Foot_L22
+    100176: Foot_L23
+    100178: Foot_L24
+    100180: Foot_L25
+    100182: Foot_L26
+    100184: Foot_L3
+    100186: Foot_L4
+    100188: Foot_L5
+    100190: Foot_L6
+    100192: Foot_L7
+    100194: Foot_L8
+    100196: Foot_L9
+    100198: Foot_R1
+    100200: Foot_R10
+    100202: Foot_R11
+    100204: Foot_R12
+    100206: Foot_R13
+    100208: Foot_R14
+    100210: Foot_R15
+    100212: Foot_R16
+    100214: Foot_R17
+    100216: Foot_R18
+    100218: Foot_R19
+    100220: Foot_R2
+    100222: Foot_R20
+    100224: Foot_R21
+    100226: Foot_R22
+    100228: Foot_R23
+    100230: Foot_R24
+    100232: Foot_R25
+    100234: Foot_R26
+    100236: Foot_R3
+    100238: Foot_R4
+    100240: Foot_R5
+    100242: Foot_R6
+    100244: Foot_R7
+    100246: Foot_R8
+    100248: Foot_R9
+    100250: Fornix
+    100252: Gull_Bladder
+    100254: Hand_L1
+    100256: Hand_L10
+    100258: Hand_L11
+    100260: Hand_L12
+    100262: Hand_L13
+    100264: Hand_L14
+    100266: Hand_L15
+    100268: Hand_L16
+    100270: Hand_L17
+    100272: Hand_L18
+    100274: Hand_L19
+    100276: Hand_L2
+    100278: Hand_L20
+    100280: Hand_L21
+    100282: Hand_L22
+    100284: Hand_L23
+    100286: Hand_L24
+    100288: Hand_L25
+    100290: Hand_L26
+    100292: Hand_L27
+    100294: Hand_L3
+    100296: Hand_L4
+    100298: Hand_L5
+    100300: Hand_L6
+    100302: Hand_L7
+    100304: Hand_L8
+    100306: Hand_L9
+    100308: Hand_R1
+    100310: Hand_R10
+    100312: Hand_R11
+    100314: Hand_R12
+    100316: Hand_R13
+    100318: Hand_R14
+    100320: Hand_R15
+    100322: Hand_R16
+    100324: Hand_R17
+    100326: Hand_R18
+    100328: Hand_R19
+    100330: Hand_R2
+    100332: Hand_R20
+    100334: Hand_R21
+    100336: Hand_R22
+    100338: Hand_R23
+    100340: Hand_R24
+    100342: Hand_R25
+    100344: Hand_R26
+    100346: Hand_R27
+    100348: Hand_R3
+    100350: Hand_R4
+    100352: Hand_R5
+    100354: Hand_R6
+    100356: Hand_R7
+    100358: Hand_R8
+    100360: Hand_R9
+    100362: Head
+    100364: Hippocampus
+    100366: Humerus_L1
+    100368: Humerus_R1
+    100370: Ilium_L
+    100372: Ilium_R
+    100374: Iris_L
+    100376: Iris_R
+    100378: Jaw
+    100380: Kidney_L
+    100382: Kidney_R
+    100384: L1
+    100386: L2
+    100388: L3
+    100390: L4
+    100392: L5
+    100394: Larynx
+    100396: Leg_L
+    100398: Leg_R
+    100400: Lens_L
+    100402: Lens_R
+    100404: Liver
+    100406: Lumbar_Nerves_L1
+    100408: Lumbar_Nerves_R1
+    100410: Lungs1
+    100412: //RootNode
+    100414: Midbrain
+    100416: Nervous_System
+    100418: Olfactory_Bulb_L
+    100420: Olfactory_Bulb_R
+    100422: Optic_Chiasm
+    100424: Pancreas1
+    100426: Parotid_Duct_L
+    100428: Parotid_Duct_R
+    100430: Parotid_Gland_L
+    100432: Parotid_Gland_R
+    100434: patella_L
+    100436: patella_R1
+    100438: Pituitory_Gland
+    100440: Pons
+    100442: Prostate_gland
+    100444: Radius_L
+    100446: Radius_R1
+    100448: Respiratory_Sys
+    100450: Rib_L1
+    100452: Rib_L10
+    100454: Rib_L11
+    100456: Rib_L12
+    100458: Rib_L2
+    100460: Rib_L3
+    100462: Rib_L4
+    100464: Rib_L5
+    100466: Rib_L6
+    100468: Rib_L7
+    100470: Rib_L8
+    100472: Rib_L9
+    100474: Rib_R1
+    100476: Rib_R10
+    100478: Rib_R11
+    100480: Rib_R12
+    100482: Rib_R2
+    100484: Rib_R3
+    100486: Rib_R4
+    100488: Rib_R5
+    100490: Rib_R6
+    100492: Rib_R7
+    100494: Rib_R8
+    100496: Rib_R9
+    100498: Ribcage
+    100500: Sacral_Nerves_L
+    100502: Sacral_Nerves_R
+    100504: Sacrum
+    100506: Salivary_Glands
+    100508: Scapula_L
+    100510: Scapula_R
+    100512: Skeleton
+    100514: skull
+    100516: Spinal_Cord
+    100518: Spine
+    100520: Spleen
+    100522: Sternum
+    100524: Sublingual_Ducts_L
+    100526: Sublingual_Ducts_R
+    100528: Sublingual_Gland_L
+    100530: Sublingual_Gland_R
+    100532: Submandibular_Duct_L
+    100534: Submandibular_Duct_R
+    100536: SumMandibular_Gland_L
+    100538: SumMandibular_Gland_R
+    100540: Suprarenal_gland_L
+    100542: Suprarenal_gland_R
+    100544: T1
+    100546: T10
+    100548: T11
+    100550: T12
+    100552: T2
+    100554: T3
+    100556: T4
+    100558: T5
+    100560: T6
+    100562: T7
+    100564: T8
+    100566: T9
+    100568: Teeth_Lower
+    100570: Teeth_Lower1
+    100572: Teeth_Lower10
+    100574: Teeth_Lower11
+    100576: Teeth_Lower12
+    100578: Teeth_Lower13
+    100580: Teeth_Lower14
+    100582: Teeth_Lower15
+    100584: Teeth_Lower2
+    100586: Teeth_Lower3
+    100588: Teeth_Lower4
+    100590: Teeth_Lower5
+    100592: Teeth_Lower6
+    100594: Teeth_Lower7
+    100596: Teeth_Lower8
+    100598: Teeth_Lower9
+    100600: Teeth_Top1
+    100602: Teeth_Top10
+    100604: Teeth_Top11
+    100606: Teeth_Top12
+    100608: Teeth_Top13
+    100610: Teeth_Top14
+    100612: Teeth_Top15
+    100614: Teeth_Top16
+    100616: Teeth_Top2
+    100618: Teeth_Top3
+    100620: Teeth_Top4
+    100622: Teeth_Top5
+    100624: Teeth_Top6
+    100626: Teeth_Top7
+    100628: Teeth_Top8
+    100630: Teeth_Top9
+    100632: Thalmus_L
+    100634: Thalmus_R
+    100636: Thoracic_Nerves_L
+    100638: Thoracic_Nerves_R
+    100640: tibia_L
+    100642: tibia_R1
+    100644: Tyroid_Gland
+    100646: Ulna_L
+    100648: Ulna_R1
+    100650: Urethra_Left
+    100652: Urethra_Right
+    100654: Urinary_Sys
+    100656: Ventricles
+    100658: Windpipe
+    100660: Cerebrum_Color_R2
+    100662: Cerebrum_Color_R3
+    100664: pSphere1
+    100666: pSphere2
+    100668: T13
+    100670: T14
+    400000: Amygdala_L
+    400002: Amygdala_R
+    400004: Appendix
+    400006: Arm_L
+    400008: Arm_R
+    400010: Autonomic_Nervous_Sys
+    400012: Basal_Ganglia
+    400014: Bladder
+    400016: Body
+    400018: Body_MeshPart0
+    400020: Body_MeshPart1
+    400022: Brain
+    400024: Brain_Inner1
+    400026: C1
+    400028: C2
+    400030: C3
+    400032: C4
+    400034: C5
+    400036: C6
+    400038: C7
+    400040: Cardiovascular
+    400042: Cardiovascular 1
+    400044: Cerebellum
+    400046: Cerebrum_Color_L1
+    400048: Cerebrum_Color_L1_MeshPart0
+    400050: Cerebrum_Color_L1_MeshPart1
+    400052: Cerebrum_Color_R1
+    400054: Cerebrum_Color_R1_MeshPart0
+    400056: Cerebrum_Color_R1_MeshPart1
+    400058: Cervical_Nerves_L1
+    400060: Cervical_Nerves_R1
+    400062: Clavicle_L
+    400064: Clavicle_R
+    400066: Coccygeal_Nerve_L
+    400068: Coccygeal_Nerve_R
+    400070: Colon1
+    400072: Copus_L
+    400074: Copus_R
+    400076: Costal_Cartilages
+    400078: Cranial_Nerves_L
+    400080: Cranial_Nerves_R
+    400082: Diaphram1
+    400084: Digestive1
+    400086: Digestive_Sys
+    400088: Disc01
+    400090: Disc02
+    400092: Disc03
+    400094: Disc04
+    400096: Disc05
+    400098: Disc06
+    400100: Disc07
+    400102: Disc08
+    400104: Disc09
+    400106: Disc10
+    400108: Disc11
+    400110: Disc12
+    400112: Disc13
+    400114: Disc14
+    400116: Disc15
+    400118: Disc16
+    400120: Disc17
+    400122: Disc18
+    400124: Disc19
+    400126: Disc20
+    400128: Disc21
+    400130: Disc22
+    400132: Disc23
+    400134: Eyes
+    400136: Falciform_ligament
+    400138: femur_L
+    400140: femur_R
+    400142: fibula_L
+    400144: fibula_R1
+    400146: Foot_L1
+    400148: Foot_L10
+    400150: Foot_L11
+    400152: Foot_L12
+    400154: Foot_L13
+    400156: Foot_L14
+    400158: Foot_L15
+    400160: Foot_L16
+    400162: Foot_L17
+    400164: Foot_L18
+    400166: Foot_L19
+    400168: Foot_L2
+    400170: Foot_L20
+    400172: Foot_L21
+    400174: Foot_L22
+    400176: Foot_L23
+    400178: Foot_L24
+    400180: Foot_L25
+    400182: Foot_L26
+    400184: Foot_L3
+    400186: Foot_L4
+    400188: Foot_L5
+    400190: Foot_L6
+    400192: Foot_L7
+    400194: Foot_L8
+    400196: Foot_L9
+    400198: Foot_R1
+    400200: Foot_R10
+    400202: Foot_R11
+    400204: Foot_R12
+    400206: Foot_R13
+    400208: Foot_R14
+    400210: Foot_R15
+    400212: Foot_R16
+    400214: Foot_R17
+    400216: Foot_R18
+    400218: Foot_R19
+    400220: Foot_R2
+    400222: Foot_R20
+    400224: Foot_R21
+    400226: Foot_R22
+    400228: Foot_R23
+    400230: Foot_R24
+    400232: Foot_R25
+    400234: Foot_R26
+    400236: Foot_R3
+    400238: Foot_R4
+    400240: Foot_R5
+    400242: Foot_R6
+    400244: Foot_R7
+    400246: Foot_R8
+    400248: Foot_R9
+    400250: Fornix
+    400252: Gull_Bladder
+    400254: Hand_L1
+    400256: Hand_L10
+    400258: Hand_L11
+    400260: Hand_L12
+    400262: Hand_L13
+    400264: Hand_L14
+    400266: Hand_L15
+    400268: Hand_L16
+    400270: Hand_L17
+    400272: Hand_L18
+    400274: Hand_L19
+    400276: Hand_L2
+    400278: Hand_L20
+    400280: Hand_L21
+    400282: Hand_L22
+    400284: Hand_L23
+    400286: Hand_L24
+    400288: Hand_L25
+    400290: Hand_L26
+    400292: Hand_L27
+    400294: Hand_L3
+    400296: Hand_L4
+    400298: Hand_L5
+    400300: Hand_L6
+    400302: Hand_L7
+    400304: Hand_L8
+    400306: Hand_L9
+    400308: Hand_R1
+    400310: Hand_R10
+    400312: Hand_R11
+    400314: Hand_R12
+    400316: Hand_R13
+    400318: Hand_R14
+    400320: Hand_R15
+    400322: Hand_R16
+    400324: Hand_R17
+    400326: Hand_R18
+    400328: Hand_R19
+    400330: Hand_R2
+    400332: Hand_R20
+    400334: Hand_R21
+    400336: Hand_R22
+    400338: Hand_R23
+    400340: Hand_R24
+    400342: Hand_R25
+    400344: Hand_R26
+    400346: Hand_R27
+    400348: Hand_R3
+    400350: Hand_R4
+    400352: Hand_R5
+    400354: Hand_R6
+    400356: Hand_R7
+    400358: Hand_R8
+    400360: Hand_R9
+    400362: Head
+    400364: Hippocampus
+    400366: Humerus_L1
+    400368: Humerus_R1
+    400370: Ilium_L
+    400372: Ilium_R
+    400374: Iris_L
+    400376: Iris_R
+    400378: Jaw
+    400380: Kidney_L
+    400382: Kidney_R
+    400384: L1
+    400386: L2
+    400388: L3
+    400390: L4
+    400392: L5
+    400394: Larynx
+    400396: Leg_L
+    400398: Leg_R
+    400400: Lens_L
+    400402: Lens_R
+    400404: Liver
+    400406: Lumbar_Nerves_L1
+    400408: Lumbar_Nerves_R1
+    400410: Lungs1
+    400412: //RootNode
+    400414: Midbrain
+    400416: Nervous_System
+    400418: Olfactory_Bulb_L
+    400420: Olfactory_Bulb_R
+    400422: Optic_Chiasm
+    400424: Pancreas1
+    400426: Parotid_Duct_L
+    400428: Parotid_Duct_R
+    400430: Parotid_Gland_L
+    400432: Parotid_Gland_R
+    400434: patella_L
+    400436: patella_R1
+    400438: Pituitory_Gland
+    400440: Pons
+    400442: Prostate_gland
+    400444: Radius_L
+    400446: Radius_R1
+    400448: Respiratory_Sys
+    400450: Rib_L1
+    400452: Rib_L10
+    400454: Rib_L11
+    400456: Rib_L12
+    400458: Rib_L2
+    400460: Rib_L3
+    400462: Rib_L4
+    400464: Rib_L5
+    400466: Rib_L6
+    400468: Rib_L7
+    400470: Rib_L8
+    400472: Rib_L9
+    400474: Rib_R1
+    400476: Rib_R10
+    400478: Rib_R11
+    400480: Rib_R12
+    400482: Rib_R2
+    400484: Rib_R3
+    400486: Rib_R4
+    400488: Rib_R5
+    400490: Rib_R6
+    400492: Rib_R7
+    400494: Rib_R8
+    400496: Rib_R9
+    400498: Ribcage
+    400500: Sacral_Nerves_L
+    400502: Sacral_Nerves_R
+    400504: Sacrum
+    400506: Salivary_Glands
+    400508: Scapula_L
+    400510: Scapula_R
+    400512: Skeleton
+    400514: skull
+    400516: Spinal_Cord
+    400518: Spine
+    400520: Spleen
+    400522: Sternum
+    400524: Sublingual_Ducts_L
+    400526: Sublingual_Ducts_R
+    400528: Sublingual_Gland_L
+    400530: Sublingual_Gland_R
+    400532: Submandibular_Duct_L
+    400534: Submandibular_Duct_R
+    400536: SumMandibular_Gland_L
+    400538: SumMandibular_Gland_R
+    400540: Suprarenal_gland_L
+    400542: Suprarenal_gland_R
+    400544: T1
+    400546: T10
+    400548: T11
+    400550: T12
+    400552: T2
+    400554: T3
+    400556: T4
+    400558: T5
+    400560: T6
+    400562: T7
+    400564: T8
+    400566: T9
+    400568: Teeth_Lower
+    400570: Teeth_Lower1
+    400572: Teeth_Lower10
+    400574: Teeth_Lower11
+    400576: Teeth_Lower12
+    400578: Teeth_Lower13
+    400580: Teeth_Lower14
+    400582: Teeth_Lower15
+    400584: Teeth_Lower2
+    400586: Teeth_Lower3
+    400588: Teeth_Lower4
+    400590: Teeth_Lower5
+    400592: Teeth_Lower6
+    400594: Teeth_Lower7
+    400596: Teeth_Lower8
+    400598: Teeth_Lower9
+    400600: Teeth_Top1
+    400602: Teeth_Top10
+    400604: Teeth_Top11
+    400606: Teeth_Top12
+    400608: Teeth_Top13
+    400610: Teeth_Top14
+    400612: Teeth_Top15
+    400614: Teeth_Top16
+    400616: Teeth_Top2
+    400618: Teeth_Top3
+    400620: Teeth_Top4
+    400622: Teeth_Top5
+    400624: Teeth_Top6
+    400626: Teeth_Top7
+    400628: Teeth_Top8
+    400630: Teeth_Top9
+    400632: Thalmus_L
+    400634: Thalmus_R
+    400636: Thoracic_Nerves_L
+    400638: Thoracic_Nerves_R
+    400640: tibia_L
+    400642: tibia_R1
+    400644: Tyroid_Gland
+    400646: Ulna_L
+    400648: Ulna_R1
+    400650: Urethra_Left
+    400652: Urethra_Right
+    400654: Urinary_Sys
+    400656: Ventricles
+    400658: Windpipe
+    400660: Cerebrum_Color_R2
+    400662: Cerebrum_Color_R3
+    400664: pSphere1
+    400666: pSphere2
+    400668: T13
+    400670: T14
+    2300000: Amygdala_L
+    2300002: Amygdala_R
+    2300004: Appendix
+    2300006: Autonomic_Nervous_Sys
+    2300008: Basal_Ganglia
+    2300010: Bladder
+    2300012: Body_MeshPart0
+    2300014: Body_MeshPart1
+    2300016: C1
+    2300018: C2
+    2300020: C3
+    2300022: C4
+    2300024: C5
+    2300026: C6
+    2300028: C7
+    2300030: Cardiovascular 1
+    2300032: Cerebellum
+    2300034: Cerebrum_Color_L1_MeshPart0
+    2300036: Cerebrum_Color_L1_MeshPart1
+    2300038: Cerebrum_Color_R1_MeshPart0
+    2300040: Cerebrum_Color_R1_MeshPart1
+    2300042: Cervical_Nerves_L1
+    2300044: Cervical_Nerves_R1
+    2300046: Clavicle_L
+    2300048: Clavicle_R
+    2300050: Coccygeal_Nerve_L
+    2300052: Coccygeal_Nerve_R
+    2300054: Colon1
+    2300056: Copus_L
+    2300058: Copus_R
+    2300060: Costal_Cartilages
+    2300062: Cranial_Nerves_L
+    2300064: Cranial_Nerves_R
+    2300066: Diaphram1
+    2300068: Digestive1
+    2300070: Disc01
+    2300072: Disc02
+    2300074: Disc03
+    2300076: Disc04
+    2300078: Disc05
+    2300080: Disc06
+    2300082: Disc07
+    2300084: Disc08
+    2300086: Disc09
+    2300088: Disc10
+    2300090: Disc11
+    2300092: Disc12
+    2300094: Disc13
+    2300096: Disc14
+    2300098: Disc15
+    2300100: Disc16
+    2300102: Disc17
+    2300104: Disc18
+    2300106: Disc19
+    2300108: Disc20
+    2300110: Disc21
+    2300112: Disc22
+    2300114: Disc23
+    2300116: Falciform_ligament
+    2300118: femur_L
+    2300120: femur_R
+    2300122: fibula_L
+    2300124: fibula_R1
+    2300126: Foot_L1
+    2300128: Foot_L10
+    2300130: Foot_L11
+    2300132: Foot_L12
+    2300134: Foot_L13
+    2300136: Foot_L14
+    2300138: Foot_L15
+    2300140: Foot_L16
+    2300142: Foot_L17
+    2300144: Foot_L18
+    2300146: Foot_L19
+    2300148: Foot_L2
+    2300150: Foot_L20
+    2300152: Foot_L21
+    2300154: Foot_L22
+    2300156: Foot_L23
+    2300158: Foot_L24
+    2300160: Foot_L25
+    2300162: Foot_L26
+    2300164: Foot_L3
+    2300166: Foot_L4
+    2300168: Foot_L5
+    2300170: Foot_L6
+    2300172: Foot_L7
+    2300174: Foot_L8
+    2300176: Foot_L9
+    2300178: Foot_R1
+    2300180: Foot_R10
+    2300182: Foot_R11
+    2300184: Foot_R12
+    2300186: Foot_R13
+    2300188: Foot_R14
+    2300190: Foot_R15
+    2300192: Foot_R16
+    2300194: Foot_R17
+    2300196: Foot_R18
+    2300198: Foot_R19
+    2300200: Foot_R2
+    2300202: Foot_R20
+    2300204: Foot_R21
+    2300206: Foot_R22
+    2300208: Foot_R23
+    2300210: Foot_R24
+    2300212: Foot_R25
+    2300214: Foot_R26
+    2300216: Foot_R3
+    2300218: Foot_R4
+    2300220: Foot_R5
+    2300222: Foot_R6
+    2300224: Foot_R7
+    2300226: Foot_R8
+    2300228: Foot_R9
+    2300230: Fornix
+    2300232: Gull_Bladder
+    2300234: Hand_L1
+    2300236: Hand_L10
+    2300238: Hand_L11
+    2300240: Hand_L12
+    2300242: Hand_L13
+    2300244: Hand_L14
+    2300246: Hand_L15
+    2300248: Hand_L16
+    2300250: Hand_L17
+    2300252: Hand_L18
+    2300254: Hand_L19
+    2300256: Hand_L2
+    2300258: Hand_L20
+    2300260: Hand_L21
+    2300262: Hand_L22
+    2300264: Hand_L23
+    2300266: Hand_L24
+    2300268: Hand_L25
+    2300270: Hand_L26
+    2300272: Hand_L27
+    2300274: Hand_L3
+    2300276: Hand_L4
+    2300278: Hand_L5
+    2300280: Hand_L6
+    2300282: Hand_L7
+    2300284: Hand_L8
+    2300286: Hand_L9
+    2300288: Hand_R1
+    2300290: Hand_R10
+    2300292: Hand_R11
+    2300294: Hand_R12
+    2300296: Hand_R13
+    2300298: Hand_R14
+    2300300: Hand_R15
+    2300302: Hand_R16
+    2300304: Hand_R17
+    2300306: Hand_R18
+    2300308: Hand_R19
+    2300310: Hand_R2
+    2300312: Hand_R20
+    2300314: Hand_R21
+    2300316: Hand_R22
+    2300318: Hand_R23
+    2300320: Hand_R24
+    2300322: Hand_R25
+    2300324: Hand_R26
+    2300326: Hand_R27
+    2300328: Hand_R3
+    2300330: Hand_R4
+    2300332: Hand_R5
+    2300334: Hand_R6
+    2300336: Hand_R7
+    2300338: Hand_R8
+    2300340: Hand_R9
+    2300342: Hippocampus
+    2300344: Humerus_L1
+    2300346: Humerus_R1
+    2300348: Ilium_L
+    2300350: Ilium_R
+    2300352: Iris_L
+    2300354: Iris_R
+    2300356: Jaw
+    2300358: Kidney_L
+    2300360: Kidney_R
+    2300362: L1
+    2300364: L2
+    2300366: L3
+    2300368: L4
+    2300370: L5
+    2300372: Larynx
+    2300374: Lens_L
+    2300376: Lens_R
+    2300378: Liver
+    2300380: Lumbar_Nerves_L1
+    2300382: Lumbar_Nerves_R1
+    2300384: Lungs1
+    2300386: Midbrain
+    2300388: Olfactory_Bulb_L
+    2300390: Olfactory_Bulb_R
+    2300392: Optic_Chiasm
+    2300394: Pancreas1
+    2300396: Parotid_Duct_L
+    2300398: Parotid_Duct_R
+    2300400: Parotid_Gland_L
+    2300402: Parotid_Gland_R
+    2300404: patella_L
+    2300406: patella_R1
+    2300408: Pituitory_Gland
+    2300410: Pons
+    2300412: Prostate_gland
+    2300414: Radius_L
+    2300416: Radius_R1
+    2300418: Rib_L1
+    2300420: Rib_L10
+    2300422: Rib_L11
+    2300424: Rib_L12
+    2300426: Rib_L2
+    2300428: Rib_L3
+    2300430: Rib_L4
+    2300432: Rib_L5
+    2300434: Rib_L6
+    2300436: Rib_L7
+    2300438: Rib_L8
+    2300440: Rib_L9
+    2300442: Rib_R1
+    2300444: Rib_R10
+    2300446: Rib_R11
+    2300448: Rib_R12
+    2300450: Rib_R2
+    2300452: Rib_R3
+    2300454: Rib_R4
+    2300456: Rib_R5
+    2300458: Rib_R6
+    2300460: Rib_R7
+    2300462: Rib_R8
+    2300464: Rib_R9
+    2300466: Sacral_Nerves_L
+    2300468: Sacral_Nerves_R
+    2300470: Sacrum
+    2300472: Scapula_L
+    2300474: Scapula_R
+    2300476: skull
+    2300478: Spinal_Cord
+    2300480: Spleen
+    2300482: Sternum
+    2300484: Sublingual_Ducts_L
+    2300486: Sublingual_Ducts_R
+    2300488: Sublingual_Gland_L
+    2300490: Sublingual_Gland_R
+    2300492: Submandibular_Duct_L
+    2300494: Submandibular_Duct_R
+    2300496: SumMandibular_Gland_L
+    2300498: SumMandibular_Gland_R
+    2300500: Suprarenal_gland_L
+    2300502: Suprarenal_gland_R
+    2300504: T1
+    2300506: T10
+    2300508: T11
+    2300510: T12
+    2300512: T2
+    2300514: T3
+    2300516: T4
+    2300518: T5
+    2300520: T6
+    2300522: T7
+    2300524: T8
+    2300526: T9
+    2300528: Teeth_Lower
+    2300530: Teeth_Lower1
+    2300532: Teeth_Lower10
+    2300534: Teeth_Lower11
+    2300536: Teeth_Lower12
+    2300538: Teeth_Lower13
+    2300540: Teeth_Lower14
+    2300542: Teeth_Lower15
+    2300544: Teeth_Lower2
+    2300546: Teeth_Lower3
+    2300548: Teeth_Lower4
+    2300550: Teeth_Lower5
+    2300552: Teeth_Lower6
+    2300554: Teeth_Lower7
+    2300556: Teeth_Lower8
+    2300558: Teeth_Lower9
+    2300560: Teeth_Top1
+    2300562: Teeth_Top10
+    2300564: Teeth_Top11
+    2300566: Teeth_Top12
+    2300568: Teeth_Top13
+    2300570: Teeth_Top14
+    2300572: Teeth_Top15
+    2300574: Teeth_Top16
+    2300576: Teeth_Top2
+    2300578: Teeth_Top3
+    2300580: Teeth_Top4
+    2300582: Teeth_Top5
+    2300584: Teeth_Top6
+    2300586: Teeth_Top7
+    2300588: Teeth_Top8
+    2300590: Teeth_Top9
+    2300592: Thalmus_L
+    2300594: Thalmus_R
+    2300596: Thoracic_Nerves_L
+    2300598: Thoracic_Nerves_R
+    2300600: tibia_L
+    2300602: tibia_R1
+    2300604: Tyroid_Gland
+    2300606: Ulna_L
+    2300608: Ulna_R1
+    2300610: Urethra_Left
+    2300612: Urethra_Right
+    2300614: Ventricles
+    2300616: Windpipe
+    2300618: Body
+    2300620: Cerebrum_Color_R2
+    2300622: Cerebrum_Color_R3
+    2300624: pSphere1
+    2300626: pSphere2
+    2300628: T13
+    2300630: T14
+    3300000: Amygdala_L
+    3300002: Amygdala_R
+    3300004: Appendix
+    3300006: Autonomic_Nervous_Sys
+    3300008: Basal_Ganglia
+    3300010: Bladder
+    3300012: Body_MeshPart0
+    3300014: Body_MeshPart1
+    3300016: C1
+    3300018: C2
+    3300020: C3
+    3300022: C4
+    3300024: C5
+    3300026: C6
+    3300028: C7
+    3300030: Cardiovascular 1
+    3300032: Cerebellum
+    3300034: Cerebrum_Color_L1_MeshPart0
+    3300036: Cerebrum_Color_L1_MeshPart1
+    3300038: Cerebrum_Color_R1_MeshPart0
+    3300040: Cerebrum_Color_R1_MeshPart1
+    3300042: Cervical_Nerves_L1
+    3300044: Cervical_Nerves_R1
+    3300046: Clavicle_L
+    3300048: Clavicle_R
+    3300050: Coccygeal_Nerve_L
+    3300052: Coccygeal_Nerve_R
+    3300054: Colon1
+    3300056: Copus_L
+    3300058: Copus_R
+    3300060: Costal_Cartilages
+    3300062: Cranial_Nerves_L
+    3300064: Cranial_Nerves_R
+    3300066: Diaphram1
+    3300068: Digestive1
+    3300070: Disc01
+    3300072: Disc02
+    3300074: Disc03
+    3300076: Disc04
+    3300078: Disc05
+    3300080: Disc06
+    3300082: Disc07
+    3300084: Disc08
+    3300086: Disc09
+    3300088: Disc10
+    3300090: Disc11
+    3300092: Disc12
+    3300094: Disc13
+    3300096: Disc14
+    3300098: Disc15
+    3300100: Disc16
+    3300102: Disc17
+    3300104: Disc18
+    3300106: Disc19
+    3300108: Disc20
+    3300110: Disc21
+    3300112: Disc22
+    3300114: Disc23
+    3300116: Falciform_ligament
+    3300118: femur_L
+    3300120: femur_R
+    3300122: fibula_L
+    3300124: fibula_R1
+    3300126: Foot_L1
+    3300128: Foot_L10
+    3300130: Foot_L11
+    3300132: Foot_L12
+    3300134: Foot_L13
+    3300136: Foot_L14
+    3300138: Foot_L15
+    3300140: Foot_L16
+    3300142: Foot_L17
+    3300144: Foot_L18
+    3300146: Foot_L19
+    3300148: Foot_L2
+    3300150: Foot_L20
+    3300152: Foot_L21
+    3300154: Foot_L22
+    3300156: Foot_L23
+    3300158: Foot_L24
+    3300160: Foot_L25
+    3300162: Foot_L26
+    3300164: Foot_L3
+    3300166: Foot_L4
+    3300168: Foot_L5
+    3300170: Foot_L6
+    3300172: Foot_L7
+    3300174: Foot_L8
+    3300176: Foot_L9
+    3300178: Foot_R1
+    3300180: Foot_R10
+    3300182: Foot_R11
+    3300184: Foot_R12
+    3300186: Foot_R13
+    3300188: Foot_R14
+    3300190: Foot_R15
+    3300192: Foot_R16
+    3300194: Foot_R17
+    3300196: Foot_R18
+    3300198: Foot_R19
+    3300200: Foot_R2
+    3300202: Foot_R20
+    3300204: Foot_R21
+    3300206: Foot_R22
+    3300208: Foot_R23
+    3300210: Foot_R24
+    3300212: Foot_R25
+    3300214: Foot_R26
+    3300216: Foot_R3
+    3300218: Foot_R4
+    3300220: Foot_R5
+    3300222: Foot_R6
+    3300224: Foot_R7
+    3300226: Foot_R8
+    3300228: Foot_R9
+    3300230: Fornix
+    3300232: Gull_Bladder
+    3300234: Hand_L1
+    3300236: Hand_L10
+    3300238: Hand_L11
+    3300240: Hand_L12
+    3300242: Hand_L13
+    3300244: Hand_L14
+    3300246: Hand_L15
+    3300248: Hand_L16
+    3300250: Hand_L17
+    3300252: Hand_L18
+    3300254: Hand_L19
+    3300256: Hand_L2
+    3300258: Hand_L20
+    3300260: Hand_L21
+    3300262: Hand_L22
+    3300264: Hand_L23
+    3300266: Hand_L24
+    3300268: Hand_L25
+    3300270: Hand_L26
+    3300272: Hand_L27
+    3300274: Hand_L3
+    3300276: Hand_L4
+    3300278: Hand_L5
+    3300280: Hand_L6
+    3300282: Hand_L7
+    3300284: Hand_L8
+    3300286: Hand_L9
+    3300288: Hand_R1
+    3300290: Hand_R10
+    3300292: Hand_R11
+    3300294: Hand_R12
+    3300296: Hand_R13
+    3300298: Hand_R14
+    3300300: Hand_R15
+    3300302: Hand_R16
+    3300304: Hand_R17
+    3300306: Hand_R18
+    3300308: Hand_R19
+    3300310: Hand_R2
+    3300312: Hand_R20
+    3300314: Hand_R21
+    3300316: Hand_R22
+    3300318: Hand_R23
+    3300320: Hand_R24
+    3300322: Hand_R25
+    3300324: Hand_R26
+    3300326: Hand_R27
+    3300328: Hand_R3
+    3300330: Hand_R4
+    3300332: Hand_R5
+    3300334: Hand_R6
+    3300336: Hand_R7
+    3300338: Hand_R8
+    3300340: Hand_R9
+    3300342: Hippocampus
+    3300344: Humerus_L1
+    3300346: Humerus_R1
+    3300348: Ilium_L
+    3300350: Ilium_R
+    3300352: Iris_L
+    3300354: Iris_R
+    3300356: Jaw
+    3300358: Kidney_L
+    3300360: Kidney_R
+    3300362: L1
+    3300364: L2
+    3300366: L3
+    3300368: L4
+    3300370: L5
+    3300372: Larynx
+    3300374: Lens_L
+    3300376: Lens_R
+    3300378: Liver
+    3300380: Lumbar_Nerves_L1
+    3300382: Lumbar_Nerves_R1
+    3300384: Lungs1
+    3300386: Midbrain
+    3300388: Olfactory_Bulb_L
+    3300390: Olfactory_Bulb_R
+    3300392: Optic_Chiasm
+    3300394: Pancreas1
+    3300396: Parotid_Duct_L
+    3300398: Parotid_Duct_R
+    3300400: Parotid_Gland_L
+    3300402: Parotid_Gland_R
+    3300404: patella_L
+    3300406: patella_R1
+    3300408: Pituitory_Gland
+    3300410: Pons
+    3300412: Prostate_gland
+    3300414: Radius_L
+    3300416: Radius_R1
+    3300418: Rib_L1
+    3300420: Rib_L10
+    3300422: Rib_L11
+    3300424: Rib_L12
+    3300426: Rib_L2
+    3300428: Rib_L3
+    3300430: Rib_L4
+    3300432: Rib_L5
+    3300434: Rib_L6
+    3300436: Rib_L7
+    3300438: Rib_L8
+    3300440: Rib_L9
+    3300442: Rib_R1
+    3300444: Rib_R10
+    3300446: Rib_R11
+    3300448: Rib_R12
+    3300450: Rib_R2
+    3300452: Rib_R3
+    3300454: Rib_R4
+    3300456: Rib_R5
+    3300458: Rib_R6
+    3300460: Rib_R7
+    3300462: Rib_R8
+    3300464: Rib_R9
+    3300466: Sacral_Nerves_L
+    3300468: Sacral_Nerves_R
+    3300470: Sacrum
+    3300472: Scapula_L
+    3300474: Scapula_R
+    3300476: skull
+    3300478: Spinal_Cord
+    3300480: Spleen
+    3300482: Sternum
+    3300484: Sublingual_Ducts_L
+    3300486: Sublingual_Ducts_R
+    3300488: Sublingual_Gland_L
+    3300490: Sublingual_Gland_R
+    3300492: Submandibular_Duct_L
+    3300494: Submandibular_Duct_R
+    3300496: SumMandibular_Gland_L
+    3300498: SumMandibular_Gland_R
+    3300500: Suprarenal_gland_L
+    3300502: Suprarenal_gland_R
+    3300504: T1
+    3300506: T10
+    3300508: T11
+    3300510: T12
+    3300512: T2
+    3300514: T3
+    3300516: T4
+    3300518: T5
+    3300520: T6
+    3300522: T7
+    3300524: T8
+    3300526: T9
+    3300528: Teeth_Lower
+    3300530: Teeth_Lower1
+    3300532: Teeth_Lower10
+    3300534: Teeth_Lower11
+    3300536: Teeth_Lower12
+    3300538: Teeth_Lower13
+    3300540: Teeth_Lower14
+    3300542: Teeth_Lower15
+    3300544: Teeth_Lower2
+    3300546: Teeth_Lower3
+    3300548: Teeth_Lower4
+    3300550: Teeth_Lower5
+    3300552: Teeth_Lower6
+    3300554: Teeth_Lower7
+    3300556: Teeth_Lower8
+    3300558: Teeth_Lower9
+    3300560: Teeth_Top1
+    3300562: Teeth_Top10
+    3300564: Teeth_Top11
+    3300566: Teeth_Top12
+    3300568: Teeth_Top13
+    3300570: Teeth_Top14
+    3300572: Teeth_Top15
+    3300574: Teeth_Top16
+    3300576: Teeth_Top2
+    3300578: Teeth_Top3
+    3300580: Teeth_Top4
+    3300582: Teeth_Top5
+    3300584: Teeth_Top6
+    3300586: Teeth_Top7
+    3300588: Teeth_Top8
+    3300590: Teeth_Top9
+    3300592: Thalmus_L
+    3300594: Thalmus_R
+    3300596: Thoracic_Nerves_L
+    3300598: Thoracic_Nerves_R
+    3300600: tibia_L
+    3300602: tibia_R1
+    3300604: Tyroid_Gland
+    3300606: Ulna_L
+    3300608: Ulna_R1
+    3300610: Urethra_Left
+    3300612: Urethra_Right
+    3300614: Ventricles
+    3300616: Windpipe
+    3300618: Body
+    3300620: Cerebrum_Color_R2
+    3300622: Cerebrum_Color_R3
+    3300624: pSphere1
+    3300626: pSphere2
+    3300628: T13
+    3300630: T14
+    4300000: Coccygeal_Nerve_L
+    4300002: Spinal_Cord
+    4300004: Cranial_Nerves_L
+    4300006: Autonomic_Nervous_Sys
+    4300008: Coccygeal_Nerve_R
+    4300010: Cranial_Nerves_R
+    4300012: Sacral_Nerves_R
+    4300014: Sacral_Nerves_L
+    4300016: Thoracic_Nerves_L
+    4300018: Thoracic_Nerves_R
+    4300020: Lumbar_Nerves_L1
+    4300022: Lumbar_Nerves_R1
+    4300024: Cervical_Nerves_R1
+    4300026: Cervical_Nerves_L1
+    4300028: Appendix
+    4300030: Falciform_ligament
+    4300032: Gull_Bladder
+    4300034: Liver
+    4300036: Spleen
+    4300038: Digestive1
+    4300040: Pancreas1
+    4300042: Colon1
+    4300044: Larynx
+    4300046: Windpipe
+    4300048: Lungs1
+    4300050: Diaphram1
+    4300052: Tyroid_Gland
+    4300054: Bladder
+    4300056: Kidney_L
+    4300058: Prostate_gland
+    4300060: Kidney_R
+    4300062: Suprarenal_gland_L
+    4300064: Suprarenal_gland_R
+    4300066: Urethra_Left
+    4300068: Urethra_Right
+    4300070: Cerebellum
+    4300072: Midbrain
+    4300074: Pons
+    4300076: Cerebrum_Color_L1_MeshPart0
+    4300078: Cerebrum_Color_L1_MeshPart1
+    4300080: Cerebrum_Color_R1_MeshPart0
+    4300082: Cerebrum_Color_R1_MeshPart1
+    4300084: Copus_L
+    4300086: Copus_R
+    4300088: Amygdala_L
+    4300090: Amygdala_R
+    4300092: Basal_Ganglia
+    4300094: Fornix
+    4300096: Hippocampus
+    4300098: Olfactory_Bulb_L
+    4300100: Olfactory_Bulb_R
+    4300102: Pituitory_Gland
+    4300104: Thalmus_L
+    4300106: Thalmus_R
+    4300108: Ventricles
+    4300110: Iris_L
+    4300112: Iris_R
+    4300114: Lens_L
+    4300116: Lens_R
+    4300118: Optic_Chiasm
+    4300120: Parotid_Duct_L
+    4300122: Parotid_Duct_R
+    4300124: Parotid_Gland_L
+    4300126: Parotid_Gland_R
+    4300128: Sublingual_Ducts_L
+    4300130: Sublingual_Ducts_R
+    4300132: Sublingual_Gland_L
+    4300134: Sublingual_Gland_R
+    4300136: Submandibular_Duct_L
+    4300138: Submandibular_Duct_R
+    4300140: SumMandibular_Gland_L
+    4300142: SumMandibular_Gland_R
+    4300144: Body_MeshPart0
+    4300146: Body_MeshPart1
+    4300148: Rib_R1
+    4300150: Rib_R2
+    4300152: Rib_R3
+    4300154: Rib_R4
+    4300156: Rib_R5
+    4300158: Rib_R6
+    4300160: Rib_R7
+    4300162: Rib_R8
+    4300164: Rib_R9
+    4300166: Rib_R10
+    4300168: Rib_R11
+    4300170: Rib_R12
+    4300172: Rib_L1
+    4300174: Rib_L2
+    4300176: Rib_L3
+    4300178: Rib_L4
+    4300180: Rib_L5
+    4300182: Rib_L6
+    4300184: Rib_L7
+    4300186: Rib_L8
+    4300188: Rib_L9
+    4300190: Rib_L10
+    4300192: Rib_L11
+    4300194: Rib_L12
+    4300196: Sternum
+    4300198: Costal_Cartilages
+    4300200: Jaw
+    4300202: skull
+    4300204: Teeth_Lower
+    4300206: Teeth_Lower1
+    4300208: Teeth_Lower2
+    4300210: Teeth_Lower3
+    4300212: Teeth_Lower4
+    4300214: Teeth_Lower5
+    4300216: Teeth_Lower6
+    4300218: Teeth_Lower7
+    4300220: Teeth_Lower8
+    4300222: Teeth_Lower9
+    4300224: Teeth_Lower10
+    4300226: Teeth_Lower11
+    4300228: Teeth_Lower12
+    4300230: Teeth_Lower13
+    4300232: Teeth_Lower14
+    4300234: Teeth_Lower15
+    4300236: Teeth_Top1
+    4300238: Teeth_Top2
+    4300240: Teeth_Top3
+    4300242: Teeth_Top4
+    4300244: Teeth_Top5
+    4300246: Teeth_Top6
+    4300248: Teeth_Top7
+    4300250: Teeth_Top8
+    4300252: Teeth_Top9
+    4300254: Teeth_Top10
+    4300256: Teeth_Top11
+    4300258: Teeth_Top12
+    4300260: Teeth_Top13
+    4300262: Teeth_Top14
+    4300264: Teeth_Top15
+    4300266: Teeth_Top16
+    4300268: Hand_L27
+    4300270: Hand_L26
+    4300272: Hand_L25
+    4300274: Hand_L24
+    4300276: Hand_L23
+    4300278: Hand_L22
+    4300280: Hand_L21
+    4300282: Hand_L20
+    4300284: Hand_L19
+    4300286: Hand_L15
+    4300288: Hand_L14
+    4300290: Hand_L13
+    4300292: Hand_L12
+    4300294: Hand_L11
+    4300296: Hand_L10
+    4300298: Hand_L9
+    4300300: Hand_L8
+    4300302: Hand_L7
+    4300304: Hand_L6
+    4300306: Hand_L5
+    4300308: Hand_L4
+    4300310: Hand_L3
+    4300312: Hand_L2
+    4300314: Hand_L1
+    4300316: Hand_L16
+    4300318: Hand_L17
+    4300320: Hand_L18
+    4300322: Humerus_L1
+    4300324: Ulna_L
+    4300326: Radius_L
+    4300328: Scapula_L
+    4300330: Clavicle_L
+    4300332: Humerus_R1
+    4300334: Ulna_R1
+    4300336: Radius_R1
+    4300338: Hand_R1
+    4300340: Hand_R2
+    4300342: Hand_R3
+    4300344: Hand_R4
+    4300346: Hand_R5
+    4300348: Hand_R6
+    4300350: Hand_R7
+    4300352: Hand_R8
+    4300354: Hand_R9
+    4300356: Hand_R10
+    4300358: Hand_R11
+    4300360: Hand_R12
+    4300362: Hand_R13
+    4300364: Hand_R14
+    4300366: Hand_R15
+    4300368: Hand_R16
+    4300370: Hand_R17
+    4300372: Hand_R18
+    4300374: Hand_R19
+    4300376: Hand_R20
+    4300378: Hand_R21
+    4300380: Hand_R22
+    4300382: Hand_R23
+    4300384: Hand_R24
+    4300386: Hand_R25
+    4300388: Hand_R26
+    4300390: Hand_R27
+    4300392: Scapula_R
+    4300394: Clavicle_R
+    4300396: fibula_R1
+    4300398: Foot_R1
+    4300400: Foot_R2
+    4300402: Foot_R3
+    4300404: Foot_R4
+    4300406: Foot_R5
+    4300408: Foot_R6
+    4300410: Foot_R7
+    4300412: Foot_R8
+    4300414: Foot_R9
+    4300416: Foot_R10
+    4300418: Foot_R11
+    4300420: Foot_R12
+    4300422: Foot_R13
+    4300424: Foot_R14
+    4300426: Foot_R15
+    4300428: Foot_R16
+    4300430: Foot_R17
+    4300432: Foot_R18
+    4300434: Foot_R19
+    4300436: Foot_R20
+    4300438: Foot_R21
+    4300440: Foot_R22
+    4300442: Foot_R23
+    4300444: Foot_R24
+    4300446: Foot_R25
+    4300448: Foot_R26
+    4300450: patella_R1
+    4300452: tibia_R1
+    4300454: femur_R
+    4300456: Ilium_R
+    4300458: Sacrum
+    4300460: C1
+    4300462: C2
+    4300464: C3
+    4300466: C4
+    4300468: C5
+    4300470: C6
+    4300472: C7
+    4300474: T1
+    4300476: T2
+    4300478: T3
+    4300480: T4
+    4300482: T5
+    4300484: T6
+    4300486: T7
+    4300488: T8
+    4300490: T9
+    4300492: T10
+    4300494: T11
+    4300496: T12
+    4300498: L1
+    4300500: L2
+    4300502: L3
+    4300504: L4
+    4300506: L5
+    4300508: Disc06
+    4300510: Disc07
+    4300512: Disc08
+    4300514: Disc09
+    4300516: Disc10
+    4300518: Disc11
+    4300520: Disc12
+    4300522: Disc13
+    4300524: Disc14
+    4300526: Disc15
+    4300528: Disc16
+    4300530: Disc17
+    4300532: Disc18
+    4300534: Disc19
+    4300536: Disc20
+    4300538: Disc21
+    4300540: Disc22
+    4300542: Disc23
+    4300544: Disc01
+    4300546: Disc02
+    4300548: Disc03
+    4300550: Disc04
+    4300552: Disc05
+    4300554: fibula_L
+    4300556: Foot_L1
+    4300558: Foot_L2
+    4300560: Foot_L3
+    4300562: Foot_L4
+    4300564: Foot_L5
+    4300566: Foot_L6
+    4300568: Foot_L7
+    4300570: Foot_L8
+    4300572: Foot_L9
+    4300574: Foot_L10
+    4300576: Foot_L11
+    4300578: Foot_L12
+    4300580: Foot_L13
+    4300582: Foot_L14
+    4300584: Foot_L15
+    4300586: Foot_L16
+    4300588: Foot_L17
+    4300590: Foot_L18
+    4300592: Foot_L19
+    4300594: Foot_L20
+    4300596: Foot_L21
+    4300598: Foot_L22
+    4300600: Foot_L23
+    4300602: Foot_L24
+    4300604: Foot_L25
+    4300606: Foot_L26
+    4300608: patella_L
+    4300610: tibia_L
+    4300612: femur_L
+    4300614: Ilium_L
+    4300616: Cardiovascular
+    4300618: Cerebrum_Color_R2
+    4300620: Cerebrum_Color_R3
+    4300622: pSphere1
+    4300624: pSphere2
+    4300626: Body
+    4300628: T13
+    4300630: T14
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Autonomic_Nerves_Mat
+    second: {fileID: 2100000, guid: 8d3df8f2f10e98349a4cfb09f74f498f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basil_Mat
+    second: {fileID: 2100000, guid: 21deefd1f2a90c54284aa0d6c997f949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bladder_Mat
+    second: {fileID: 2100000, guid: c7a4108783bf6ce42872c2296964623e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bones_Mat
+    second: {fileID: 2100000, guid: 889fd6c02dc5a024eba2ae43b760dd03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Frontal_lobe_Mat
+    second: {fileID: 2100000, guid: 1120dfcef408e884f8c6bab4718bb5d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Occipital_Lope_Mat
+    second: {fileID: 2100000, guid: 1be2ca73e17181a41a0032ab57ab2e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Parietal_Lobe_Mat
+    second: {fileID: 2100000, guid: 3038694ac9c97f544bdc623f5b3b4402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Temporal_lobe_Mat
+    second: {fileID: 2100000, guid: 787a533f60552ab4aa675bed347137f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cerebellum_Mat
+    second: {fileID: 2100000, guid: 12a6455b735de824f93a7813709a8ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cervical_Nerves_Mat
+    second: {fileID: 2100000, guid: 92ddfc28b152435419428415cc861b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colon
+    second: {fileID: 2100000, guid: 114727e5563adad46a3721199d1b141a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colon_White_Mat
+    second: {fileID: 2100000, guid: 0f02452a9e5ab5747a08529160529850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copus_Mat
+    second: {fileID: 2100000, guid: 594aeefb36e8e4b47a46e7fd3c251dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Costal_Cartilages_Mat
+    second: {fileID: 2100000, guid: 978b1f65ab06d9841964760d8a14d2a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cranial_Nerves_Mat
+    second: {fileID: 2100000, guid: f9954bc2ba2519c48873986d1c1e2e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diaphram_Mat
+    second: {fileID: 2100000, guid: adaac8b5bc74e044ba6b03d79aec90ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Digestive_Intestine_Mat
+    second: {fileID: 2100000, guid: 1abb4d4aa909d704094bec6ae1c84e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Disc
+    second: {fileID: 2100000, guid: 07b4bec879a2bd2459b0e20ce91619d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Duct_Mat
+    second: {fileID: 2100000, guid: 8a89a7523b62ac24488f1a7144464564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Falciform_Ligament_Mat
+    second: {fileID: 2100000, guid: f97d467fadf70374a9795acdab9622d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gland_Mat
+    second: {fileID: 2100000, guid: 4022014d261c2cb4f8a7172f0028784a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gull_Bladder_Mat
+    second: {fileID: 2100000, guid: 7bbc62d6fc0ebec41a5456c03ed8a62d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heart_Mat
+    second: {fileID: 2100000, guid: 227bdcc552e3b4b4f9a78de7c5049197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iris_Mat
+    second: {fileID: 2100000, guid: 12c67cf0e105e3346973e3ddb1aa51e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Mat
+    second: {fileID: 2100000, guid: 6ce37e536c86abc4291e430db5cd8ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens_black_Mat
+    second: {fileID: 2100000, guid: 0421a47ac257c6e439f08c8a82542bd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Limbic_Mat
+    second: {fileID: 2100000, guid: 3cb80c380908281489fa9d53a4ae06b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Liver1
+    second: {fileID: 2100000, guid: f6f88f2ee43d67b43b2028b29862be6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lumbar_Nerves_Mat
+    second: {fileID: 2100000, guid: 496c8e358a8277d4db42481bb713baba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lungs_Mat
+    second: {fileID: 2100000, guid: 81feac065d6da9e488bb6c515bb096f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Midbrain_Mat
+    second: {fileID: 2100000, guid: c860de2831b7f984482d726f5f03e75c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Optic_Chiasm_Mat
+    second: {fileID: 2100000, guid: f689696c17fe6614587302bbada56d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pancreas_Mat
+    second: {fileID: 2100000, guid: 867f71ae6d9addd40968dc090d12b0e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pons_Mat
+    second: {fileID: 2100000, guid: f9e26d17acd5ef545bc8be063fb5b3fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prostate_Mat
+    second: {fileID: 2100000, guid: 7e953518b73b7484eb2e0759536d92f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sacral_Nerves_Mat
+    second: {fileID: 2100000, guid: ffbb187b49e7ab24fa52ddd1499e5621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silhouette
+    second: {fileID: 2100000, guid: 43b76d04616903e4ab9cbed7c97faaad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spinal_Cord_Mat
+    second: {fileID: 2100000, guid: 1afe065f105f59343add4271a38f95cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spleen_Mat
+    second: {fileID: 2100000, guid: 7185fbf7377c5ec40bedd5fbc65990d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suprarenal_Gland_Mat
+    second: {fileID: 2100000, guid: 3b94f9d934b2bb547bed8a0c1595511b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth_Mat
+    second: {fileID: 2100000, guid: 829a669fb65673f479ea423bbac8265a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Thalamus_Mat
+    second: {fileID: 2100000, guid: 9c0debe6bde0fac4994d85f1d95bdda4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Thoracic_Nerves_Mat
+    second: {fileID: 2100000, guid: 3e6b8b9c3c8a37848be2f165c49e94d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tyroid_Gland_Mat
+    second: {fileID: 2100000, guid: 8d5ac1d9c20c41846a9f0a54d9563a84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ventricle_Mat
+    second: {fileID: 2100000, guid: d1d104e0d419769438b05d75575336a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windpipe1
+    second: {fileID: 2100000, guid: ae7a265008ba5944aa531bbade2c6a1b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftFoot' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Skeleton
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_L6
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_R6
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Disc01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Disc05
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: meta_human_body_mdl(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_MeshPart0
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_MeshPart1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Brain
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cerebellum
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cerebrum_Color_L1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cerebrum_Color_L1_MeshPart0
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cerebrum_Color_L1_MeshPart1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cerebrum_Color_R1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cerebrum_Color_R1_MeshPart0
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cerebrum_Color_R1_MeshPart1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Copus_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Copus_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Midbrain
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pons
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Brain_Inner1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Amygdala_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Amygdala_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Basal_Ganglia
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fornix
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hippocampus
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Olfactory_Bulb_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Olfactory_Bulb_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pituitory_Gland
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thalmus_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thalmus_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ventricles
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cardiovascular
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cardiovascular 1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Digestive_Sys
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Appendix
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Colon1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Digestive1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Falciform_ligament
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gull_Bladder
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Liver
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pancreas1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spleen
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyes
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Iris_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Iris_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lens_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lens_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Optic_Chiasm
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nervous_System
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Autonomic_Nervous_Sys
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cervical_Nerves_L1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cervical_Nerves_R1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coccygeal_Nerve_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coccygeal_Nerve_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cranial_Nerves_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cranial_Nerves_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lumbar_Nerves_L1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lumbar_Nerves_R1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sacral_Nerves_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sacral_Nerves_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spinal_Cord
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thoracic_Nerves_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thoracic_Nerves_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Respiratory_Sys
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diaphram1
+      parentName: 
+      position: {x: -0, y: 1.221119, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Larynx
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lungs1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tyroid_Gland
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Windpipe
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Salivary_Glands
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Parotid_Duct_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Parotid_Duct_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Parotid_Gland_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Parotid_Gland_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sublingual_Ducts_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sublingual_Ducts_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sublingual_Gland_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sublingual_Gland_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Submandibular_Duct_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Submandibular_Duct_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SumMandibular_Gland_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SumMandibular_Gland_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Arm_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Clavicle_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L3
+      parentName: 
+      position: {x: 0.015721394, y: 0.008736602, z: -0.020251293}
+      rotation: {x: 0.0102003645, y: -0.00008042642, z: 0.007884006, w: 0.9999169}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L5
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L6
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L8
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L9
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L10
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L11
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L13
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L14
+      parentName: 
+      position: {x: -0.012724593, y: -0.05893822, z: -0.03298146}
+      rotation: {x: 0.024419436, y: -0.015359422, z: -0.015639232, w: 0.9994615}
+      scale: {x: 1.0409175, y: 1.0409175, z: 1.0409175}
+    - name: Hand_L15
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L16
+      parentName: 
+      position: {x: 0.015721394, y: 0.008736602, z: -0.020251293}
+      rotation: {x: 0.0102003645, y: -0.00008042642, z: 0.007884006, w: 0.9999169}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L17
+      parentName: 
+      position: {x: -0.009029842, y: -0.00044997022, z: -0.09298559}
+      rotation: {x: 0.025711354, y: 0.039396163, z: -0.0027194456, w: 0.99888915}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L18
+      parentName: 
+      position: {x: -0.009029842, y: -0.00044997022, z: -0.09298559}
+      rotation: {x: 0.025711354, y: 0.039396163, z: -0.0027194456, w: 0.99888915}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L19
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L20
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L21
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L22
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L23
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L24
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L25
+      parentName: 
+      position: {x: 0.060963325, y: -0.032898135, z: 0.034894828}
+      rotation: {x: -0.027253883, y: 0.016412564, z: 0.015191463, w: 0.9993784}
+      scale: {x: 1.0557966, y: 1.0557966, z: 1.0557966}
+    - name: Hand_L26
+      parentName: 
+      position: {x: 0.16311516, y: 0.04031984, z: 0.0132070705}
+      rotation: {x: -0.00899167, y: 0.004321863, z: 0.07359979, w: 0.997238}
+      scale: {x: 1.0557966, y: 1.0557966, z: 1.0557966}
+    - name: Hand_L27
+      parentName: 
+      position: {x: 0.08023661, y: 0.019093629, z: -0.0034878042}
+      rotation: {x: 0.010072849, y: -0.010963382, z: 0.040336072, w: 0.9990753}
+      scale: {x: 1.0215633, y: 1.0215633, z: 1.0215633}
+    - name: Humerus_L1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Radius_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Scapula_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ulna_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Arm_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Clavicle_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R1
+      parentName: 
+      position: {x: -0.08023661, y: 0.019093629, z: -0.0034878042}
+      rotation: {x: 0.04033607, y: 0.99907523, z: 0.010072848, w: -0.010963381}
+      scale: {x: 1.0215633, y: 1.0215633, z: 1.0215633}
+    - name: Hand_R2
+      parentName: 
+      position: {x: -0.16311516, y: 0.04031984, z: 0.0132070705}
+      rotation: {x: 0.07359979, y: 0.997238, z: -0.00899167, w: 0.0043218634}
+      scale: {x: 1.0557966, y: 1.0557966, z: 1.0557966}
+    - name: Hand_R3
+      parentName: 
+      position: {x: -0.060963325, y: -0.032898135, z: 0.034894828}
+      rotation: {x: 0.015191463, y: 0.9993784, z: -0.027253885, w: 0.016412564}
+      scale: {x: 1.0557966, y: 1.0557966, z: 1.0557966}
+    - name: Hand_R4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R5
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R6
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R8
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R9
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R10
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R11
+      parentName: 
+      position: {x: 0.012724593, y: -0.05893822, z: -0.03298146}
+      rotation: {x: -0.015639232, y: 0.9994615, z: 0.024419436, w: -0.015359422}
+      scale: {x: 1.0409175, y: 1.0409175, z: 1.0409175}
+    - name: Hand_R12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R13
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R14
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R15
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R16
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R17
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R18
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R19
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R20
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R21
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R22
+      parentName: 
+      position: {x: -0.015721394, y: 0.008736602, z: -0.020251293}
+      rotation: {x: 0.007884006, y: 0.9999169, z: 0.0102003645, w: -0.00008042651}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R23
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R24
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R25
+      parentName: 
+      position: {x: -0.015721394, y: 0.008736602, z: -0.020251293}
+      rotation: {x: 0.007884006, y: 0.9999169, z: 0.0102003645, w: -0.00008042651}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R26
+      parentName: 
+      position: {x: 0.009029842, y: -0.00044997022, z: -0.09298559}
+      rotation: {x: -0.0027194456, y: 0.99888915, z: 0.025711354, w: 0.039396163}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R27
+      parentName: 
+      position: {x: 0.009029842, y: -0.00044997022, z: -0.09298559}
+      rotation: {x: -0.0027194456, y: 0.99888915, z: 0.025711354, w: 0.039396163}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Humerus_R1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Radius_R1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Scapula_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ulna_R1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaw
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: skull
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower3
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower5
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower6
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower8
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower9
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower10
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower11
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower13
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower14
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Lower15
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top3
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top5
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top6
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top8
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top9
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top10
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top11
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top13
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top14
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top15
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth_Top16
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: femur_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fibula_L
+      parentName: 
+      position: {x: -1.3855583e-15, y: 5.156986e-16, z: 9.450218e-15}
+      rotation: {x: -8.715251e-15, y: 2.7755576e-17, z: -1.2212453e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L3
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L5
+      parentName: 
+      position: {x: -0.00074636657, y: -0.022547567, z: 0.0038388292}
+      rotation: {x: -0.05243642, y: -0.00021371157, z: -0.03158923, w: 0.9981245}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L6
+      parentName: 
+      position: {x: -0.0015077277, y: -0.028774658, z: 0.003991745}
+      rotation: {x: -0.0922644, y: 0.006343839, z: -0.023689471, w: 0.9954325}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L8
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L9
+      parentName: 
+      position: {x: -0.00074636657, y: -0.022547567, z: 0.0038388292}
+      rotation: {x: -0.05243642, y: -0.00021371157, z: -0.03158923, w: 0.9981245}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L10
+      parentName: 
+      position: {x: 0.0012927715, y: -0.010118497, z: 0.0010070425}
+      rotation: {x: -0.040752355, y: 0.00094455277, z: -0.009919284, w: 0.9991196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L11
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L13
+      parentName: 
+      position: {x: -0.0034689019, y: 0, z: -0.007340076}
+      rotation: {x: 0, y: 0.02132583, z: -0, w: 0.9997726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L14
+      parentName: 
+      position: {x: -0.0031198352, y: 0, z: -0.005498988}
+      rotation: {x: 0, y: 0.017974617, z: -0, w: 0.9998385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L15
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L16
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L17
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L18
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L19
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L20
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L21
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L22
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L23
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L24
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L25
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_L26
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ilium_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: patella_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tibia_L
+      parentName: 
+      position: {x: -1.3855583e-15, y: 5.156986e-16, z: 9.450218e-15}
+      rotation: {x: -8.715251e-15, y: 2.7755576e-17, z: -1.2212453e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: femur_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fibula_R1
+      parentName: 
+      position: {x: 1.3855583e-15, y: 5.156986e-16, z: 9.450218e-15}
+      rotation: {x: -1.1714554e-15, y: 1, z: -8.720972e-15, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R3
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R5
+      parentName: 
+      position: {x: 0.00074636657, y: -0.022547567, z: 0.0038388292}
+      rotation: {x: -0.03158923, y: 0.9981245, z: -0.05243642, w: -0.00021371165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R6
+      parentName: 
+      position: {x: 0.0015077277, y: -0.028774658, z: 0.003991745}
+      rotation: {x: -0.023689471, y: 0.9954325, z: -0.0922644, w: 0.0063438397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R8
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R9
+      parentName: 
+      position: {x: 0.00074636657, y: -0.022547567, z: 0.0038388292}
+      rotation: {x: -0.03158923, y: 0.9981245, z: -0.05243642, w: -0.00021371165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R10
+      parentName: 
+      position: {x: -0.0012927715, y: -0.010118497, z: 0.0010070425}
+      rotation: {x: -0.009919284, y: 0.9991196, z: -0.040752355, w: 0.0009445528}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R11
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R13
+      parentName: 
+      position: {x: 0.0034689019, y: 0, z: -0.007340076}
+      rotation: {x: 6.2524247e-17, y: 0.9997726, z: -6.2524247e-17, w: 0.02132583}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R14
+      parentName: 
+      position: {x: 0.0031198352, y: 0, z: -0.005498988}
+      rotation: {x: 6.2323076e-17, y: 0.9998385, z: -6.2323076e-17, w: 0.017974617}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R15
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R16
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R17
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R18
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R19
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R20
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R21
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R22
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R23
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R24
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R25
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R26
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ilium_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: patella_R1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tibia_R1
+      parentName: 
+      position: {x: 1.3855583e-15, y: 5.156986e-16, z: 9.450218e-15}
+      rotation: {x: -1.1714554e-15, y: 1, z: -8.720972e-15, w: -8.450358e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribcage
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Costal_Cartilages
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L3
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L5
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L6
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L8
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L9
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L10
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L11
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_L12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R3
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R5
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R6
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R8
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R9
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R10
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R11
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rib_R12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sternum
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C3
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C5
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C6
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc01
+      parentName: 
+      position: {x: -0, y: 0.089958444, z: 0.021707928}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc02
+      parentName: 
+      position: {x: -0, y: 0.07067452, z: 0.01998799}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc03
+      parentName: 
+      position: {x: -0, y: 0.10610312, z: -0.41589633}
+      rotation: {x: 0.146254, y: -0, z: -0, w: 0.9892471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc04
+      parentName: 
+      position: {x: 5.2281062e-21, y: 0.10747937, z: -0.48468217}
+      rotation: {x: 0.1683528, y: -0, z: -0, w: 0.98572683}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc05
+      parentName: 
+      position: {x: 5.2281062e-21, y: 0.16340876, z: -0.67086834}
+      rotation: {x: 0.23254967, y: -0, z: -0, w: 0.97258455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc06
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc07
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc08
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc09
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc10
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc11
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc13
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc14
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc15
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc16
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc17
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc18
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc19
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc20
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc21
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc22
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Disc23
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L3
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L5
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sacrum
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T2
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T3
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T4
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T5
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T6
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T7
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T8
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T9
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T10
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T11
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: T12
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Urinary_Sys
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bladder
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kidney_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kidney_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Prostate_gland
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Suprarenal_gland_L
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Suprarenal_gland_R
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Urethra_Left
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Urethra_Right
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
