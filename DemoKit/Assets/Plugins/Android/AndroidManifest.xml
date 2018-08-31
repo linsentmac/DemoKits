@@ -12,7 +12,7 @@
         android:allowBackup="true"
         android:label="@string/app_name"
         android:supportsRtl="true" 
-        android:theme="@android:style/Theme.Translucent.NoTitleBar">
+        android:theme="@style/UnityThemeSelector">
         <activity android:name="com.lenovo.aarfordemokit.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
